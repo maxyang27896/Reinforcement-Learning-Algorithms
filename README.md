@@ -1,2 +1,2 @@
 # Reinforcement Learning Algorithms
-A list of reinforcement learning exercises. 
+A list of reinforcement learning exercises. Changes
