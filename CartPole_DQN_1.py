@@ -78,7 +78,7 @@ def experience_replay():
     
    
 run = 0
-N = 20
+N = 100
 # run for N episodes
 for i in range(0,N):
     run += 1
