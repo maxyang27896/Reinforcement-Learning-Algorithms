@@ -1,5 +1,5 @@
 # Reinforcement Learning Algorithms
-A list of reinforcement learning exercises. 
+A list of reinforcement learning algorithms that has been implmented for various environments in OpenAI Gym. 
 
 ## Taxi V3
 A Q-table learning from the bellmen equation was implemented to find the optimal action in a taxi environment. 
