@@ -139,6 +139,8 @@ class Model:
         self.DQNetwork = DQNetworks(input_shape, action_space, self.LEARNING_RATE, "DQN")
         self.TargetDQNetwork = DQNetworks(input_shape, action_space, self.LEARNING_RATE, "TargetDQN")
         
+        self.sess = tf.Session()
+        self.sess.run(tf.global_variables_initializer())
         
     def act(self, state, exploration_rate):
         '''
@@ -148,7 +150,7 @@ class Model:
         if np.random.rand() < exploration_rate:
             action = np.random.randint(self.action_space)
         else:
-            action = np.argmax(sess.run(self.DQNetwork.output, 
+            action = np.argmax(self.sess.run(self.DQNetwork.output, 
                                         feed_dict = {self.DQNetwork.inputs_: state[tf.newaxis,...]})[0])
         return action
 
@@ -170,9 +172,9 @@ class Model:
             state_next_batch[i] = batch[i][3]
             done_batch[i] = batch[i][4]
         # Get predicted Q value batch
-        Q_next_state = sess.run(self.DQNetwork.output, 
+        Q_next_state = self.sess.run(self.DQNetwork.output, 
                                 feed_dict = {self.DQNetwork.inputs_: state_next_batch})
-        Target_Q_next_state = sess.run(self.TargetDQNetwork.output, 
+        Target_Q_next_state = self.sess.run(self.TargetDQNetwork.output, 
                                        feed_dict = {self.TargetDQNetwork.inputs_: state_next_batch})
         # Calculate target Q batch
         target_Q_batch = np.zeros(self.BATCH_SIZE)
@@ -183,14 +185,12 @@ class Model:
                 best_action = np.argmax(Q_next_state[i])
                 target_Q_batch[i] = reward_batch[i] + self.GAMMA * Target_Q_next_state[i][best_action]
         # Fit the data 
-        loss, abs_TD_error, _ = sess.run([self.DQNetwork.loss, self.DQNetwork.abs_TD_error, self.DQNetwork.optimizer],
+        loss, abs_TD_error, _ = self.sess.run([self.DQNetwork.loss, self.DQNetwork.abs_TD_error, self.DQNetwork.optimizer],
                                          feed_dict={self.DQNetwork.inputs_: state_batch,
                                                     self.DQNetwork.target_Q: target_Q_batch,
                                                     self.DQNetwork.actions_: action_batch,
                                                     self.DQNetwork.IS_weights: IS_weights})
-        # Update the priorites with latest TD errors
-        memory.update_batch(tree_idx, abs_TD_error)
-        
+   
         return loss, abs_TD_error
         
         
