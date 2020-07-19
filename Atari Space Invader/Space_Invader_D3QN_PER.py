@@ -45,7 +45,6 @@ class DQNetworks:
                 self.conv1b = tf.get_variable('bias')
                 
             self.conv1_out = tf.nn.elu(self.conv1, name="conv1_out")
-
                 
             self.conv2 = tf.layers.conv2d(inputs = self.conv1_out,
                                  filters = 64,
@@ -78,7 +77,7 @@ class DQNetworks:
             
             self.flatten = tf.contrib.layers.flatten(self.conv3_out)
             
-            ## Here to separate into two streams
+            '''## Here to separate into two streams'''
             # The one to calculate V(s)
             self.value_fc = tf.layers.dense(inputs = self.flatten,
                                             units = 512,
@@ -122,11 +121,11 @@ class DQNetworks:
             self.optimizer = tf.train.RMSPropOptimizer(self.learning_rate).minimize(self.loss)
 
 
-            #### FOR LOGGING #####
+            ''' #### FOR LOGGING #####'''
             self.max_Q_pred = tf.reduce_max(self.output, axis = 1)
             self.max_Q_mean_pred = tf.reduce_mean(self.max_Q_pred)
             self.argmax_Q_pred = tf.argmax(self.output, axis = 1)
-            #### FOR LOGGING #####
+            '''#### FOR LOGGING #####'''
              
 class Model:
     
@@ -139,7 +138,7 @@ class Model:
 
         self.DQNetwork = DQNetworks(input_shape, action_space, self.LEARNING_RATE, "DQN")
         self.TargetDQNetwork = DQNetworks(input_shape, action_space, self.LEARNING_RATE, "TargetDQN")
-
+        
         
     def act(self, state, exploration_rate):
         '''
