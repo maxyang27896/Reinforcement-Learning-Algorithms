@@ -11,6 +11,7 @@ import numpy as np
 import gym
 import time
 from collections import deque
+import matplotlib.pyplot as plt
 
 from skimage import transform 
 from skimage.color import rgb2gray 
@@ -201,10 +202,16 @@ class Agent:
             # Append values at the end of an episode
             steps.append(episode_steps)
             rewards.append(episode_rewards)
-         
+        
         # Save model at the end of training 
         print("Training Done")
         self.model.save_model() 
+        
+        # Save plot 
+        plt.plot(rewards)
+        plt.ylabel('Rewards')
+        plt.xlabel('Episodes')
+        plt.savefig('rewards.png')
         
 if __name__ == "__main__":
     agent = Agent()
