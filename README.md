@@ -25,3 +25,10 @@ Two methods have been applied:
 * Deep Q Learning - The input state was kept as continous inputs and a deep Q network (DQN) was used to map state to action. The objective of the neural network is to approximate the Q values of each action at each state that the network sees and the agent chooses the action with the highest Q values as the optimal policy. 
 
 ## Space Invader
+The objective is to train a deep Q network to play the Atari space invader game and obtain the highest score as possible. The input state is a stacked frames of size 4 frame that has been processed and the output consists of 6 actions of the game. A convolutional neural network has been used to model the state to action function. 
+
+<img src="/img/poster.jpg" width="250"> <img src="/img/dqn.jpg" width="450">
+
+* Double DQN - uses an additional target network that predicts the Q values of the next state which is frozen during training to allow the main network to learn without the target network being changed. The target network is then updated every N iterations of training. 
+* Dueling DQN - a special type of neural network that produces two streams to model the values of being in a state and the value of each action separetly. 
+* Priority experience replay - a memory tree was implemented that samples preivous experiences based on priority value which is calculated by TD error between the predicted Q value and actual Q value. 
