@@ -7,6 +7,8 @@ Created on Fri Jul 17 23:53:01 2020
 
 
 # Import packages
+import shutil
+import os
 import numpy as np
 import gym
 import time
@@ -138,13 +140,17 @@ class Agent:
         
         
     def run(self):
+        # Delete log directory 
+        if os.path.isdir(self.model.log_path):
+            shutil.rmtree(self.model.log_path)
+            
         self.initialise_memory()
         total_steps = 0
         losses = []
         rewards = []
         steps = []
         start_time = time.time()
-        total_epsiodes = 5 
+        total_epsiodes = 1000
         for i in range(0, total_epsiodes):
             
             # Make a new episode and observe the first state
@@ -215,5 +221,5 @@ class Agent:
         
 if __name__ == "__main__":
     agent = Agent()
-    agent.run()
-    # agent.restore_and_test()
+    #agent.run()
+    agent.restore_and_test()

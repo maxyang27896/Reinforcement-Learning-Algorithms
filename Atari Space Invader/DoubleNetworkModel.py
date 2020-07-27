@@ -4,8 +4,7 @@ Created on Tue Jul 21 16:31:32 2020
 
 @author: MY2
 """
-import shutil
-import os
+
 import tensorflow as tf
 import numpy as np
 from D3QNetwork import DQNetworks
@@ -30,10 +29,8 @@ class Model:
         self.path =  "./Models/model.ckpt"
         
         # For logging
-        log_path = "./tensorboard/dddqn/1"
-        if os.path.isdir(log_path):
-            shutil.rmtree(log_path)
-        self.writer = tf.summary.FileWriter(log_path)
+        self.log_path = "./tensorboard/dddqn/1"
+        self.writer = tf.summary.FileWriter(self.log_path)
         tf.summary.scalar("Loss", self.DQNetwork.loss)
         tf.summary.scalar("Mean_Target", self.DQNetwork.mean_target)
         tf.summary.scalar("Mean_Predict", self.DQNetwork.max_Q_mean_pred)

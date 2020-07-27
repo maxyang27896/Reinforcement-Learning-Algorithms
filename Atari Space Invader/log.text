@@ -1,0 +1,1161 @@
+Target network updated!
+Start filling memory
+The average rewards for 1 runs is 7.0
+The average rewards for 1 runs is 11.0
+The average rewards for 1 runs is 10.0
+The average rewards for 1 runs is 14.0
+The average rewards for 1 runs is 17.0
+The average rewards for 1 runs is 11.0
+The average rewards for 1 runs is 7.0
+The average rewards for 1 runs is 17.0
+The average rewards for 1 runs is 10.0
+The average rewards for 1 runs is 6.0
+The average rewards for 1 runs is 16.0
+The average rewards for 1 runs is 6.0
+The average rewards for 1 runs is 6.0
+The average rewards for 1 runs is 3.0
+Memory filled! The memory length is 10412
+Episode 1, exploration rate: 0.9823, final rewards: 7.0, final loss is 0.0036, Time elapsed: 23.0498
+Episode 2, exploration rate: 0.9703, final rewards: 3.0, final loss is 0.0159, Time elapsed: 17.1163
+Episode 3, exploration rate: 0.9429, final rewards: 20.0, final loss is 0.0081, Time elapsed: 41.9540
+Episode 4, exploration rate: 0.9309, final rewards: 8.0, final loss is 0.0040, Time elapsed: 18.4221
+Episode 5, exploration rate: 0.9140, final rewards: 6.0, final loss is 0.0059, Time elapsed: 26.0261
+Episode 6, exploration rate: 0.8967, final rewards: 13.0, final loss is 0.0059, Time elapsed: 27.2241
+Episode 7, exploration rate: 0.8821, final rewards: 4.0, final loss is 0.0040, Time elapsed: 23.8089
+Episode 8, exploration rate: 0.8679, final rewards: 4.0, final loss is 0.0115, Time elapsed: 25.1047
+Episode 9, exploration rate: 0.8568, final rewards: 6.0, final loss is 0.0059, Time elapsed: 19.9986
+Episode 10, exploration rate: 0.8387, final rewards: 13.0, final loss is 0.0126, Time elapsed: 33.2155
+Episode 11, exploration rate: 0.8241, final rewards: 9.0, final loss is 0.0078, Time elapsed: 27.1230
+Episode 12, exploration rate: 0.8162, final rewards: 6.0, final loss is 0.0068, Time elapsed: 14.7824
+Episode 13, exploration rate: 0.8069, final rewards: 5.0, final loss is 0.0076, Time elapsed: 17.4772
+Episode 14, exploration rate: 0.7974, final rewards: 6.0, final loss is 0.0068, Time elapsed: 18.4793
+Target network updated!
+DQNetwork saved!
+Episode 15, exploration rate: 0.7722, final rewards: 12.0, final loss is 0.0078, Time elapsed: 50.5785
+Episode 16, exploration rate: 0.7615, final rewards: 9.0, final loss is 0.0069, Time elapsed: 21.8950
+Episode 17, exploration rate: 0.7495, final rewards: 11.0, final loss is 0.0049, Time elapsed: 24.2645
+Episode 18, exploration rate: 0.7384, final rewards: 5.0, final loss is 0.0058, Time elapsed: 23.9438
+Episode 19, exploration rate: 0.7288, final rewards: 8.0, final loss is 0.0048, Time elapsed: 20.4928
+Episode 20, exploration rate: 0.7178, final rewards: 9.0, final loss is 0.0050, Time elapsed: 23.8011
+Episode 21, exploration rate: 0.7044, final rewards: 14.0, final loss is 0.0060, Time elapsed: 29.7594
+Episode 22, exploration rate: 0.6895, final rewards: 20.0, final loss is 0.0089, Time elapsed: 32.8861
+Episode 23, exploration rate: 0.6826, final rewards: 6.0, final loss is 0.0076, Time elapsed: 15.6632
+Episode 24, exploration rate: 0.6611, final rewards: 19.0, final loss is 0.0069, Time elapsed: 50.1097
+Episode 25, exploration rate: 0.6524, final rewards: 5.0, final loss is 0.0049, Time elapsed: 21.1124
+Episode 26, exploration rate: 0.6425, final rewards: 7.0, final loss is 0.0068, Time elapsed: 23.9813
+Episode 27, exploration rate: 0.6320, final rewards: 8.0, final loss is 0.0043, Time elapsed: 25.7545
+Episode 28, exploration rate: 0.6117, final rewards: 24.0, final loss is 0.0058, Time elapsed: 51.1842
+Target network updated!
+DQNetwork saved!
+Episode 29, exploration rate: 0.6028, final rewards: 5.0, final loss is 0.0053, Time elapsed: 23.7492
+Episode 30, exploration rate: 0.5896, final rewards: 13.0, final loss is 0.0087, Time elapsed: 34.9436
+Episode 31, exploration rate: 0.5801, final rewards: 7.0, final loss is 0.0031, Time elapsed: 25.8072
+Episode 32, exploration rate: 0.5623, final rewards: 20.0, final loss is 0.0040, Time elapsed: 50.4796
+Episode 33, exploration rate: 0.5533, final rewards: 12.0, final loss is 0.0122, Time elapsed: 25.6705
+Episode 34, exploration rate: 0.5367, final rewards: 26.0, final loss is 0.0086, Time elapsed: 47.9403
+Episode 35, exploration rate: 0.5307, final rewards: 4.0, final loss is 0.0050, Time elapsed: 17.9569
+Episode 36, exploration rate: 0.5226, final rewards: 8.0, final loss is 0.0058, Time elapsed: 24.3056
+Episode 37, exploration rate: 0.5122, final rewards: 12.0, final loss is 0.0058, Time elapsed: 31.3848
+Episode 38, exploration rate: 0.5055, final rewards: 7.0, final loss is 0.0067, Time elapsed: 21.1778
+Episode 39, exploration rate: 0.4999, final rewards: 9.0, final loss is 0.0057, Time elapsed: 17.6525
+Episode 40, exploration rate: 0.4892, final rewards: 12.0, final loss is 0.0066, Time elapsed: 33.7509
+Episode 41, exploration rate: 0.4811, final rewards: 13.0, final loss is 0.0060, Time elapsed: 27.6379
+Episode 42, exploration rate: 0.4733, final rewards: 12.0, final loss is 0.0103, Time elapsed: 25.8732
+Target network updated!
+DQNetwork saved!
+Episode 43, exploration rate: 0.4633, final rewards: 13.0, final loss is 0.0057, Time elapsed: 35.9444
+Episode 44, exploration rate: 0.4575, final rewards: 7.0, final loss is 0.0066, Time elapsed: 20.0331
+Episode 45, exploration rate: 0.4505, final rewards: 4.0, final loss is 0.0041, Time elapsed: 24.7648
+Episode 46, exploration rate: 0.4460, final rewards: 6.0, final loss is 0.0056, Time elapsed: 16.5289
+Episode 47, exploration rate: 0.4404, final rewards: 4.0, final loss is 0.0069, Time elapsed: 19.7353
+Episode 48, exploration rate: 0.4342, final rewards: 8.0, final loss is 0.0059, Time elapsed: 22.2259
+Episode 49, exploration rate: 0.4277, final rewards: 6.0, final loss is 0.0068, Time elapsed: 24.3656
+Episode 50, exploration rate: 0.4191, final rewards: 14.0, final loss is 0.0032, Time elapsed: 32.2630
+Episode 51, exploration rate: 0.4119, final rewards: 10.0, final loss is 0.0061, Time elapsed: 28.0173
+Episode 52, exploration rate: 0.4046, final rewards: 12.0, final loss is 0.0048, Time elapsed: 28.6192
+Episode 53, exploration rate: 0.3966, final rewards: 11.0, final loss is 0.0031, Time elapsed: 32.4345
+Episode 54, exploration rate: 0.3927, final rewards: 8.0, final loss is 0.0046, Time elapsed: 15.5219
+Episode 55, exploration rate: 0.3877, final rewards: 9.0, final loss is 0.0047, Time elapsed: 20.6270
+Episode 56, exploration rate: 0.3784, final rewards: 22.0, final loss is 0.0049, Time elapsed: 38.7048
+Episode 57, exploration rate: 0.3747, final rewards: 5.0, final loss is 0.0059, Time elapsed: 15.8055
+Episode 58, exploration rate: 0.3704, final rewards: 3.0, final loss is 0.0122, Time elapsed: 18.3637
+Target network updated!
+DQNetwork saved!
+Episode 59, exploration rate: 0.3635, final rewards: 10.0, final loss is 0.0051, Time elapsed: 31.0150
+Episode 60, exploration rate: 0.3578, final rewards: 11.0, final loss is 0.0024, Time elapsed: 25.7184
+Episode 61, exploration rate: 0.3524, final rewards: 5.0, final loss is 0.0058, Time elapsed: 23.8290
+Episode 62, exploration rate: 0.3474, final rewards: 6.0, final loss is 0.0041, Time elapsed: 22.7910
+Episode 63, exploration rate: 0.3432, final rewards: 4.0, final loss is 0.0067, Time elapsed: 19.3527
+Episode 64, exploration rate: 0.3400, final rewards: 2.0, final loss is 0.0042, Time elapsed: 15.1239
+Episode 65, exploration rate: 0.3371, final rewards: 2.0, final loss is 0.0024, Time elapsed: 14.0770
+Episode 66, exploration rate: 0.3328, final rewards: 5.0, final loss is 0.0056, Time elapsed: 20.6380
+Episode 67, exploration rate: 0.3270, final rewards: 12.0, final loss is 0.0060, Time elapsed: 28.2302
+Episode 68, exploration rate: 0.3178, final rewards: 12.0, final loss is 0.0035, Time elapsed: 45.8647
+Episode 69, exploration rate: 0.3128, final rewards: 7.0, final loss is 0.0041, Time elapsed: 25.1922
+Episode 70, exploration rate: 0.3089, final rewards: 6.0, final loss is 0.0058, Time elapsed: 20.5726
+Episode 71, exploration rate: 0.3038, final rewards: 9.0, final loss is 0.0060, Time elapsed: 27.1239
+Episode 72, exploration rate: 0.3002, final rewards: 5.0, final loss is 0.0052, Time elapsed: 19.0304
+Episode 73, exploration rate: 0.2972, final rewards: 5.0, final loss is 0.0041, Time elapsed: 16.6349
+Episode 74, exploration rate: 0.2895, final rewards: 20.0, final loss is 0.0060, Time elapsed: 41.7816
+Episode 75, exploration rate: 0.2866, final rewards: 4.0, final loss is 0.0064, Time elapsed: 16.4075
+Target network updated!
+DQNetwork saved!
+Episode 76, exploration rate: 0.2800, final rewards: 23.0, final loss is 0.0045, Time elapsed: 37.4558
+Episode 77, exploration rate: 0.2760, final rewards: 6.0, final loss is 0.0084, Time elapsed: 23.8955
+Episode 78, exploration rate: 0.2715, final rewards: 15.0, final loss is 0.0067, Time elapsed: 27.7154
+Episode 79, exploration rate: 0.2669, final rewards: 7.0, final loss is 0.0049, Time elapsed: 28.2904
+Episode 80, exploration rate: 0.2625, final rewards: 9.0, final loss is 0.0061, Time elapsed: 27.6445
+Episode 81, exploration rate: 0.2565, final rewards: 22.0, final loss is 0.0076, Time elapsed: 37.3904
+Episode 82, exploration rate: 0.2498, final rewards: 15.0, final loss is 0.0061, Time elapsed: 42.9476
+Episode 83, exploration rate: 0.2438, final rewards: 18.0, final loss is 0.0085, Time elapsed: 39.5662
+Episode 84, exploration rate: 0.2374, final rewards: 21.0, final loss is 0.0072, Time elapsed: 42.2771
+Episode 85, exploration rate: 0.2329, final rewards: 19.0, final loss is 0.0061, Time elapsed: 31.2380
+Episode 86, exploration rate: 0.2294, final rewards: 10.0, final loss is 0.0106, Time elapsed: 24.4057
+Episode 87, exploration rate: 0.2233, final rewards: 10.0, final loss is 0.0043, Time elapsed: 44.0092
+Target network updated!
+DQNetwork saved!
+Episode 88, exploration rate: 0.2194, final rewards: 12.0, final loss is 0.0102, Time elapsed: 29.5829
+Episode 89, exploration rate: 0.2157, final rewards: 10.0, final loss is 0.0052, Time elapsed: 27.6187
+Episode 90, exploration rate: 0.2113, final rewards: 11.0, final loss is 0.0081, Time elapsed: 32.4196
+Episode 91, exploration rate: 0.2090, final rewards: 8.0, final loss is 0.0048, Time elapsed: 17.8747
+Episode 92, exploration rate: 0.2062, final rewards: 4.0, final loss is 0.0101, Time elapsed: 22.7447
+Episode 93, exploration rate: 0.2034, final rewards: 7.0, final loss is 0.0043, Time elapsed: 21.4754
+Episode 94, exploration rate: 0.2016, final rewards: 6.0, final loss is 0.0057, Time elapsed: 14.9712
+Episode 95, exploration rate: 0.1961, final rewards: 20.0, final loss is 0.0035, Time elapsed: 44.2586
+Episode 96, exploration rate: 0.1944, final rewards: 2.0, final loss is 0.0076, Time elapsed: 13.8224
+Episode 97, exploration rate: 0.1912, final rewards: 10.0, final loss is 0.0038, Time elapsed: 27.3069
+Episode 98, exploration rate: 0.1878, final rewards: 9.0, final loss is 0.0043, Time elapsed: 29.5432
+Episode 99, exploration rate: 0.1826, final rewards: 18.0, final loss is 0.0059, Time elapsed: 45.3742
+Episode 100, exploration rate: 0.1805, final rewards: 7.0, final loss is 0.0067, Time elapsed: 18.8647
+Episode 101, exploration rate: 0.1781, final rewards: 5.0, final loss is 0.0068, Time elapsed: 20.6429
+Episode 102, exploration rate: 0.1756, final rewards: 5.0, final loss is 0.0017, Time elapsed: 23.3723
+Target network updated!
+DQNetwork saved!
+Episode 103, exploration rate: 0.1716, final rewards: 12.0, final loss is 0.0033, Time elapsed: 38.5086
+Episode 104, exploration rate: 0.1683, final rewards: 14.0, final loss is 0.0043, Time elapsed: 31.4390
+Episode 105, exploration rate: 0.1630, final rewards: 14.0, final loss is 0.0065, Time elapsed: 50.7350
+Episode 106, exploration rate: 0.1597, final rewards: 11.0, final loss is 0.0061, Time elapsed: 32.5021
+Episode 107, exploration rate: 0.1562, final rewards: 18.0, final loss is 0.0044, Time elapsed: 37.0603
+Episode 108, exploration rate: 0.1515, final rewards: 21.0, final loss is 0.0051, Time elapsed: 48.9993
+Episode 109, exploration rate: 0.1484, final rewards: 11.0, final loss is 0.0076, Time elapsed: 33.3006
+Episode 110, exploration rate: 0.1455, final rewards: 10.0, final loss is 0.0057, Time elapsed: 31.8016
+Episode 111, exploration rate: 0.1441, final rewards: 6.0, final loss is 0.0033, Time elapsed: 16.3589
+Episode 112, exploration rate: 0.1417, final rewards: 9.0, final loss is 0.0046, Time elapsed: 28.5705
+Episode 113, exploration rate: 0.1398, final rewards: 12.0, final loss is 0.0062, Time elapsed: 21.1324
+Episode 114, exploration rate: 0.1363, final rewards: 17.0, final loss is 0.0052, Time elapsed: 41.0821
+Target network updated!
+DQNetwork saved!
+Episode 115, exploration rate: 0.1343, final rewards: 11.0, final loss is 0.0054, Time elapsed: 24.6384
+Episode 116, exploration rate: 0.1304, final rewards: 29.0, final loss is 0.0077, Time elapsed: 48.2420
+Episode 117, exploration rate: 0.1277, final rewards: 13.0, final loss is 0.0065, Time elapsed: 34.1388
+Episode 118, exploration rate: 0.1248, final rewards: 9.0, final loss is 0.0071, Time elapsed: 37.6136
+Episode 119, exploration rate: 0.1235, final rewards: 4.0, final loss is 0.0020, Time elapsed: 16.5143
+Episode 120, exploration rate: 0.1204, final rewards: 24.0, final loss is 0.0044, Time elapsed: 41.1106
+Episode 121, exploration rate: 0.1176, final rewards: 11.0, final loss is 0.0046, Time elapsed: 37.1236
+Episode 122, exploration rate: 0.1153, final rewards: 14.0, final loss is 0.0061, Time elapsed: 33.5402
+Episode 123, exploration rate: 0.1120, final rewards: 20.0, final loss is 0.0045, Time elapsed: 48.9261
+Episode 124, exploration rate: 0.1102, final rewards: 14.0, final loss is 0.0049, Time elapsed: 25.8018
+Episode 125, exploration rate: 0.1087, final rewards: 6.0, final loss is 0.0082, Time elapsed: 23.2461
+Episode 126, exploration rate: 0.1067, final rewards: 14.0, final loss is 0.0032, Time elapsed: 28.9894
+Episode 127, exploration rate: 0.1057, final rewards: 7.0, final loss is 0.0051, Time elapsed: 14.6305
+Target network updated!
+DQNetwork saved!
+Episode 128, exploration rate: 0.1040, final rewards: 11.0, final loss is 0.0047, Time elapsed: 27.5732
+Episode 129, exploration rate: 0.1012, final rewards: 13.0, final loss is 0.0062, Time elapsed: 44.3432
+Episode 130, exploration rate: 0.0990, final rewards: 13.0, final loss is 0.0055, Time elapsed: 35.3619
+Episode 131, exploration rate: 0.0981, final rewards: 1.0, final loss is 0.0056, Time elapsed: 14.6823
+Episode 132, exploration rate: 0.0958, final rewards: 22.0, final loss is 0.0036, Time elapsed: 38.9773
+Episode 133, exploration rate: 0.0942, final rewards: 6.0, final loss is 0.0041, Time elapsed: 25.8559
+Episode 134, exploration rate: 0.0930, final rewards: 4.0, final loss is 0.0069, Time elapsed: 21.3942
+Episode 135, exploration rate: 0.0912, final rewards: 11.0, final loss is 0.0075, Time elapsed: 31.7941
+Episode 136, exploration rate: 0.0889, final rewards: 21.0, final loss is 0.0077, Time elapsed: 41.7463
+Episode 137, exploration rate: 0.0871, final rewards: 12.0, final loss is 0.0052, Time elapsed: 33.4227
+Episode 138, exploration rate: 0.0860, final rewards: 5.0, final loss is 0.0052, Time elapsed: 20.6106
+Episode 139, exploration rate: 0.0829, final rewards: 27.0, final loss is 0.0063, Time elapsed: 58.7374
+Target network updated!
+DQNetwork saved!
+Episode 140, exploration rate: 0.0818, final rewards: 3.0, final loss is 0.0052, Time elapsed: 22.1259
+Episode 141, exploration rate: 0.0801, final rewards: 12.0, final loss is 0.0039, Time elapsed: 35.3337
+Episode 142, exploration rate: 0.0788, final rewards: 13.0, final loss is 0.0053, Time elapsed: 27.4005
+Episode 143, exploration rate: 0.0771, final rewards: 15.0, final loss is 0.0030, Time elapsed: 34.5226
+Episode 144, exploration rate: 0.0763, final rewards: 2.0, final loss is 0.0017, Time elapsed: 15.9866
+Episode 145, exploration rate: 0.0745, final rewards: 15.0, final loss is 0.0073, Time elapsed: 40.3456
+Episode 146, exploration rate: 0.0732, final rewards: 10.0, final loss is 0.0059, Time elapsed: 26.9798
+Episode 147, exploration rate: 0.0717, final rewards: 14.0, final loss is 0.0044, Time elapsed: 33.0649
+Episode 148, exploration rate: 0.0706, final rewards: 13.0, final loss is 0.0078, Time elapsed: 25.8557
+Episode 149, exploration rate: 0.0686, final rewards: 18.0, final loss is 0.0081, Time elapsed: 45.9018
+Episode 150, exploration rate: 0.0676, final rewards: 6.0, final loss is 0.0058, Time elapsed: 23.5885
+Episode 151, exploration rate: 0.0666, final rewards: 12.0, final loss is 0.0046, Time elapsed: 25.8697
+Episode 152, exploration rate: 0.0657, final rewards: 6.0, final loss is 0.0038, Time elapsed: 21.2094
+Episode 153, exploration rate: 0.0643, final rewards: 20.0, final loss is 0.0064, Time elapsed: 34.5731
+Target network updated!
+DQNetwork saved!
+Episode 154, exploration rate: 0.0637, final rewards: 6.0, final loss is 0.0060, Time elapsed: 16.0852
+Episode 155, exploration rate: 0.0620, final rewards: 20.0, final loss is 0.0082, Time elapsed: 44.1700
+Episode 156, exploration rate: 0.0606, final rewards: 17.0, final loss is 0.0032, Time elapsed: 38.1573
+Episode 157, exploration rate: 0.0597, final rewards: 3.0, final loss is 0.0019, Time elapsed: 22.1515
+Episode 158, exploration rate: 0.0590, final rewards: 8.0, final loss is 0.0059, Time elapsed: 21.7196
+Episode 159, exploration rate: 0.0577, final rewards: 16.0, final loss is 0.0058, Time elapsed: 35.6673
+Episode 160, exploration rate: 0.0572, final rewards: 0.0, final loss is 0.0037, Time elapsed: 13.6811
+Episode 161, exploration rate: 0.0567, final rewards: 3.0, final loss is 0.0024, Time elapsed: 14.5603
+Episode 162, exploration rate: 0.0560, final rewards: 5.0, final loss is 0.0058, Time elapsed: 19.1203
+Episode 163, exploration rate: 0.0553, final rewards: 6.0, final loss is 0.0041, Time elapsed: 20.6312
+Episode 164, exploration rate: 0.0546, final rewards: 4.0, final loss is 0.0070, Time elapsed: 20.3044
+Episode 165, exploration rate: 0.0536, final rewards: 14.0, final loss is 0.0075, Time elapsed: 28.7230
+Episode 166, exploration rate: 0.0529, final rewards: 6.0, final loss is 0.0024, Time elapsed: 22.3329
+Episode 167, exploration rate: 0.0517, final rewards: 20.0, final loss is 0.0060, Time elapsed: 37.3450
+Episode 168, exploration rate: 0.0502, final rewards: 20.0, final loss is 0.0067, Time elapsed: 45.9682
+Target network updated!
+DQNetwork saved!
+Episode 169, exploration rate: 0.0491, final rewards: 16.0, final loss is 0.0023, Time elapsed: 37.3759
+Episode 170, exploration rate: 0.0487, final rewards: 8.0, final loss is 0.0040, Time elapsed: 14.5584
+Episode 171, exploration rate: 0.0478, final rewards: 13.0, final loss is 0.0047, Time elapsed: 28.3170
+Episode 172, exploration rate: 0.0472, final rewards: 7.0, final loss is 0.0021, Time elapsed: 22.0773
+Episode 173, exploration rate: 0.0467, final rewards: 4.0, final loss is 0.0073, Time elapsed: 14.9741
+Episode 174, exploration rate: 0.0463, final rewards: 6.0, final loss is 0.0070, Time elapsed: 15.9533
+Episode 175, exploration rate: 0.0451, final rewards: 18.0, final loss is 0.0032, Time elapsed: 43.6733
+Episode 176, exploration rate: 0.0440, final rewards: 14.0, final loss is 0.0065, Time elapsed: 37.4793
+Episode 177, exploration rate: 0.0435, final rewards: 7.0, final loss is 0.0043, Time elapsed: 18.6660
+Episode 178, exploration rate: 0.0427, final rewards: 8.0, final loss is 0.0052, Time elapsed: 32.1303
+Episode 179, exploration rate: 0.0420, final rewards: 8.0, final loss is 0.0053, Time elapsed: 26.6698
+Episode 180, exploration rate: 0.0416, final rewards: 4.0, final loss is 0.0049, Time elapsed: 13.3799
+Episode 181, exploration rate: 0.0408, final rewards: 13.0, final loss is 0.0053, Time elapsed: 33.7288
+Episode 182, exploration rate: 0.0404, final rewards: 3.0, final loss is 0.0059, Time elapsed: 15.0757
+Episode 183, exploration rate: 0.0400, final rewards: 5.0, final loss is 0.0049, Time elapsed: 14.2574
+Episode 184, exploration rate: 0.0392, final rewards: 9.0, final loss is 0.0085, Time elapsed: 33.1701
+Target network updated!
+DQNetwork saved!
+Episode 185, exploration rate: 0.0387, final rewards: 6.0, final loss is 0.0096, Time elapsed: 22.1038
+Episode 186, exploration rate: 0.0374, final rewards: 29.0, final loss is 0.0031, Time elapsed: 54.8759
+Episode 187, exploration rate: 0.0368, final rewards: 6.0, final loss is 0.0035, Time elapsed: 25.5655
+Episode 188, exploration rate: 0.0363, final rewards: 11.0, final loss is 0.0027, Time elapsed: 25.0899
+Episode 189, exploration rate: 0.0354, final rewards: 13.0, final loss is 0.0056, Time elapsed: 37.4529
+Episode 190, exploration rate: 0.0349, final rewards: 6.0, final loss is 0.0061, Time elapsed: 24.0035
+Episode 191, exploration rate: 0.0342, final rewards: 20.0, final loss is 0.0084, Time elapsed: 34.5763
+Episode 192, exploration rate: 0.0335, final rewards: 15.0, final loss is 0.0051, Time elapsed: 34.9018
+Episode 193, exploration rate: 0.0325, final rewards: 22.0, final loss is 0.0070, Time elapsed: 48.5610
+Episode 194, exploration rate: 0.0315, final rewards: 19.0, final loss is 0.0061, Time elapsed: 51.0027
+Episode 195, exploration rate: 0.0309, final rewards: 11.0, final loss is 0.0050, Time elapsed: 32.3527
+Target network updated!
+DQNetwork saved!
+Episode 196, exploration rate: 0.0299, final rewards: 25.0, final loss is 0.0055, Time elapsed: 49.9792
+Episode 197, exploration rate: 0.0297, final rewards: 4.0, final loss is 0.0050, Time elapsed: 15.6663
+Episode 198, exploration rate: 0.0292, final rewards: 8.0, final loss is 0.0068, Time elapsed: 28.1142
+Episode 199, exploration rate: 0.0283, final rewards: 18.0, final loss is 0.0048, Time elapsed: 46.9677
+Episode 200, exploration rate: 0.0279, final rewards: 5.0, final loss is 0.0051, Time elapsed: 25.9339
+Episode 201, exploration rate: 0.0271, final rewards: 22.0, final loss is 0.0042, Time elapsed: 45.5323
+Episode 202, exploration rate: 0.0265, final rewards: 16.0, final loss is 0.0052, Time elapsed: 36.5455
+Episode 203, exploration rate: 0.0259, final rewards: 15.0, final loss is 0.0089, Time elapsed: 38.3928
+Episode 204, exploration rate: 0.0255, final rewards: 2.0, final loss is 0.0070, Time elapsed: 23.4130
+Episode 205, exploration rate: 0.0250, final rewards: 16.0, final loss is 0.0083, Time elapsed: 34.4267
+Episode 206, exploration rate: 0.0245, final rewards: 12.0, final loss is 0.0067, Time elapsed: 31.4458
+Episode 207, exploration rate: 0.0241, final rewards: 14.0, final loss is 0.0061, Time elapsed: 28.5586
+Episode 208, exploration rate: 0.0236, final rewards: 12.0, final loss is 0.0089, Time elapsed: 32.1832
+Target network updated!
+DQNetwork saved!
+Episode 209, exploration rate: 0.0233, final rewards: 7.0, final loss is 0.0069, Time elapsed: 21.3208
+Episode 210, exploration rate: 0.0230, final rewards: 6.0, final loss is 0.0076, Time elapsed: 21.7879
+Episode 211, exploration rate: 0.0226, final rewards: 9.0, final loss is 0.0041, Time elapsed: 26.3754
+Episode 212, exploration rate: 0.0221, final rewards: 22.0, final loss is 0.0061, Time elapsed: 39.1462
+Episode 213, exploration rate: 0.0219, final rewards: 5.0, final loss is 0.0053, Time elapsed: 13.2973
+Episode 214, exploration rate: 0.0214, final rewards: 18.0, final loss is 0.0086, Time elapsed: 41.7871
+Episode 215, exploration rate: 0.0210, final rewards: 14.0, final loss is 0.0075, Time elapsed: 29.0134
+Episode 216, exploration rate: 0.0205, final rewards: 10.0, final loss is 0.0036, Time elapsed: 34.3100
+Episode 217, exploration rate: 0.0202, final rewards: 8.0, final loss is 0.0028, Time elapsed: 24.4478
+Episode 218, exploration rate: 0.0197, final rewards: 24.0, final loss is 0.0066, Time elapsed: 46.4980
+Episode 219, exploration rate: 0.0191, final rewards: 18.0, final loss is 0.0038, Time elapsed: 45.9265
+Episode 220, exploration rate: 0.0187, final rewards: 14.0, final loss is 0.0053, Time elapsed: 33.0187
+Target network updated!
+DQNetwork saved!
+Episode 221, exploration rate: 0.0182, final rewards: 24.0, final loss is 0.0021, Time elapsed: 50.2724
+Episode 222, exploration rate: 0.0178, final rewards: 14.0, final loss is 0.0067, Time elapsed: 28.6428
+Episode 223, exploration rate: 0.0175, final rewards: 10.0, final loss is 0.0069, Time elapsed: 30.9819
+Episode 224, exploration rate: 0.0172, final rewards: 9.0, final loss is 0.0063, Time elapsed: 24.9134
+Episode 225, exploration rate: 0.0169, final rewards: 22.0, final loss is 0.0034, Time elapsed: 35.4399
+Episode 226, exploration rate: 0.0167, final rewards: 5.0, final loss is 0.0073, Time elapsed: 16.6167
+Episode 227, exploration rate: 0.0164, final rewards: 12.0, final loss is 0.0031, Time elapsed: 28.3691
+Episode 228, exploration rate: 0.0163, final rewards: 2.0, final loss is 0.0053, Time elapsed: 15.0446
+Episode 229, exploration rate: 0.0160, final rewards: 10.0, final loss is 0.0056, Time elapsed: 27.3595
+Episode 230, exploration rate: 0.0157, final rewards: 6.0, final loss is 0.0062, Time elapsed: 28.4211
+Episode 231, exploration rate: 0.0155, final rewards: 7.0, final loss is 0.0032, Time elapsed: 22.3502
+Episode 232, exploration rate: 0.0149, final rewards: 33.0, final loss is 0.0046, Time elapsed: 63.2622
+Episode 233, exploration rate: 0.0148, final rewards: 7.0, final loss is 0.0071, Time elapsed: 17.3529
+Episode 234, exploration rate: 0.0145, final rewards: 15.0, final loss is 0.0060, Time elapsed: 32.7439
+Target network updated!
+DQNetwork saved!
+Episode 235, exploration rate: 0.0142, final rewards: 7.0, final loss is 0.0059, Time elapsed: 29.0140
+Episode 236, exploration rate: 0.0141, final rewards: 5.0, final loss is 0.0083, Time elapsed: 14.5869
+Episode 237, exploration rate: 0.0138, final rewards: 15.0, final loss is 0.0048, Time elapsed: 31.9714
+Episode 238, exploration rate: 0.0135, final rewards: 15.0, final loss is 0.0089, Time elapsed: 40.6554
+Episode 239, exploration rate: 0.0133, final rewards: 7.0, final loss is 0.0046, Time elapsed: 19.8362
+Episode 240, exploration rate: 0.0131, final rewards: 11.0, final loss is 0.0089, Time elapsed: 27.4974
+Episode 241, exploration rate: 0.0129, final rewards: 11.0, final loss is 0.0039, Time elapsed: 28.3821
+Episode 242, exploration rate: 0.0127, final rewards: 7.0, final loss is 0.0042, Time elapsed: 22.4729
+Episode 243, exploration rate: 0.0126, final rewards: 2.0, final loss is 0.0046, Time elapsed: 15.4126
+Episode 244, exploration rate: 0.0124, final rewards: 6.0, final loss is 0.0044, Time elapsed: 21.1548
+Episode 245, exploration rate: 0.0122, final rewards: 14.0, final loss is 0.0032, Time elapsed: 32.5975
+Episode 246, exploration rate: 0.0119, final rewards: 12.0, final loss is 0.0052, Time elapsed: 35.3521
+Episode 247, exploration rate: 0.0118, final rewards: 5.0, final loss is 0.0051, Time elapsed: 22.8256
+Episode 248, exploration rate: 0.0115, final rewards: 14.0, final loss is 0.0064, Time elapsed: 34.6429
+Episode 249, exploration rate: 0.0113, final rewards: 13.0, final loss is 0.0061, Time elapsed: 31.9646
+Episode 250, exploration rate: 0.0112, final rewards: 5.0, final loss is 0.0040, Time elapsed: 18.5879
+Target network updated!
+DQNetwork saved!
+Episode 251, exploration rate: 0.0110, final rewards: 9.0, final loss is 0.0065, Time elapsed: 26.2028
+Episode 252, exploration rate: 0.0109, final rewards: 4.0, final loss is 0.0070, Time elapsed: 19.2338
+Episode 253, exploration rate: 0.0106, final rewards: 8.0, final loss is 0.0067, Time elapsed: 35.8553
+Episode 254, exploration rate: 0.0104, final rewards: 17.0, final loss is 0.0047, Time elapsed: 30.4041
+Episode 255, exploration rate: 0.0103, final rewards: 12.0, final loss is 0.0068, Time elapsed: 26.1976
+Episode 256, exploration rate: 0.0101, final rewards: 5.0, final loss is 0.0037, Time elapsed: 20.4154
+Episode 257, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0055, Time elapsed: 21.0420
+Episode 258, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0076, Time elapsed: 19.3708
+Episode 259, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0066, Time elapsed: 35.5437
+Episode 260, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0030, Time elapsed: 29.5476
+Episode 261, exploration rate: 0.0100, final rewards: 2.0, final loss is 0.0078, Time elapsed: 20.0633
+Episode 262, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0021, Time elapsed: 47.0212
+Episode 263, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0056, Time elapsed: 22.9618
+Episode 264, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0035, Time elapsed: 24.5936
+Episode 265, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0037, Time elapsed: 25.2499
+Target network updated!
+DQNetwork saved!
+Episode 266, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0058, Time elapsed: 28.5336
+Episode 267, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0036, Time elapsed: 29.0041
+Episode 268, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0038, Time elapsed: 31.8710
+Episode 269, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0035, Time elapsed: 24.5822
+Episode 270, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0045, Time elapsed: 35.1865
+Episode 271, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0032, Time elapsed: 37.4743
+Episode 272, exploration rate: 0.0100, final rewards: 25.0, final loss is 0.0068, Time elapsed: 55.3733
+Episode 273, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0027, Time elapsed: 44.0581
+Episode 274, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0058, Time elapsed: 16.0871
+Episode 275, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0066, Time elapsed: 15.2526
+Episode 276, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0061, Time elapsed: 41.5610
+Episode 277, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0035, Time elapsed: 23.1550
+Episode 278, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0042, Time elapsed: 24.0912
+Target network updated!
+DQNetwork saved!
+Episode 279, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0046, Time elapsed: 42.8180
+Episode 280, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0038, Time elapsed: 19.3444
+Episode 281, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0042, Time elapsed: 21.4429
+Episode 282, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0046, Time elapsed: 23.9157
+Episode 283, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0070, Time elapsed: 40.0527
+Episode 284, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0033, Time elapsed: 22.9236
+Episode 285, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0074, Time elapsed: 31.9828
+Episode 286, exploration rate: 0.0100, final rewards: 3.0, final loss is 0.0051, Time elapsed: 14.7331
+Episode 287, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0029, Time elapsed: 22.1906
+Episode 288, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0037, Time elapsed: 29.5034
+Episode 289, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0040, Time elapsed: 43.0288
+Episode 290, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0026, Time elapsed: 36.3740
+Episode 291, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0048, Time elapsed: 37.8515
+Episode 292, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0039, Time elapsed: 27.2105
+Target network updated!
+DQNetwork saved!
+Episode 293, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0061, Time elapsed: 45.6089
+Episode 294, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0057, Time elapsed: 23.2714
+Episode 295, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0082, Time elapsed: 15.6354
+Episode 296, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0042, Time elapsed: 21.3360
+Episode 297, exploration rate: 0.0100, final rewards: 25.0, final loss is 0.0028, Time elapsed: 47.5147
+Episode 298, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0058, Time elapsed: 38.5713
+Episode 299, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0024, Time elapsed: 27.8184
+Episode 300, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0093, Time elapsed: 26.4587
+Episode 301, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0053, Time elapsed: 41.6532
+Episode 302, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0045, Time elapsed: 16.7330
+Episode 303, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0047, Time elapsed: 15.6193
+Episode 304, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0043, Time elapsed: 22.7369
+Episode 305, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0039, Time elapsed: 38.2190
+Target network updated!
+DQNetwork saved!
+Episode 306, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0079, Time elapsed: 38.8794
+Episode 307, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0048, Time elapsed: 37.0682
+Episode 308, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0064, Time elapsed: 51.2939
+Episode 309, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0036, Time elapsed: 28.4913
+Episode 310, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0051, Time elapsed: 15.7427
+Episode 311, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0051, Time elapsed: 37.9871
+Episode 312, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0070, Time elapsed: 24.0336
+Episode 313, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0059, Time elapsed: 22.8034
+Episode 314, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0039, Time elapsed: 50.0383
+Episode 315, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0067, Time elapsed: 37.2214
+Episode 316, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0036, Time elapsed: 27.3105
+Episode 317, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0059, Time elapsed: 16.8876
+Episode 318, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0027, Time elapsed: 26.8996
+Target network updated!
+DQNetwork saved!
+Episode 319, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0046, Time elapsed: 28.4323
+Episode 320, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0060, Time elapsed: 43.9727
+Episode 321, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0041, Time elapsed: 24.6242
+Episode 322, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0037, Time elapsed: 29.1812
+Episode 323, exploration rate: 0.0100, final rewards: 23.0, final loss is 0.0043, Time elapsed: 43.7269
+Episode 324, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0086, Time elapsed: 21.0630
+Episode 325, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0066, Time elapsed: 26.7128
+Episode 326, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0029, Time elapsed: 26.2270
+Episode 327, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0052, Time elapsed: 26.4959
+Episode 328, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0039, Time elapsed: 48.2238
+Episode 329, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0035, Time elapsed: 36.6979
+Episode 330, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0058, Time elapsed: 34.4282
+Episode 331, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0046, Time elapsed: 28.4176
+Target network updated!
+DQNetwork saved!
+Episode 332, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0059, Time elapsed: 22.1649
+Episode 333, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0072, Time elapsed: 24.1155
+Episode 334, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0060, Time elapsed: 13.8241
+Episode 335, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0088, Time elapsed: 14.5812
+Episode 336, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0066, Time elapsed: 27.9675
+Episode 337, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0049, Time elapsed: 27.4115
+Episode 338, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0076, Time elapsed: 15.9562
+Episode 339, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0041, Time elapsed: 20.4042
+Episode 340, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0041, Time elapsed: 31.3481
+Episode 341, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0060, Time elapsed: 38.6394
+Episode 342, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0049, Time elapsed: 38.1784
+Episode 343, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0029, Time elapsed: 26.6543
+Episode 344, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0079, Time elapsed: 28.0177
+Episode 345, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0052, Time elapsed: 25.5839
+Episode 346, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0090, Time elapsed: 28.3333
+Episode 347, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0049, Time elapsed: 33.6470
+Target network updated!
+DQNetwork saved!
+Episode 348, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0065, Time elapsed: 15.9504
+Episode 349, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0068, Time elapsed: 27.7579
+Episode 350, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0056, Time elapsed: 53.2258
+Episode 351, exploration rate: 0.0100, final rewards: 3.0, final loss is 0.0070, Time elapsed: 13.8119
+Episode 352, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0087, Time elapsed: 26.7128
+Episode 353, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0062, Time elapsed: 27.9822
+Episode 354, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0050, Time elapsed: 16.5341
+Episode 355, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0037, Time elapsed: 16.5738
+Episode 356, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0071, Time elapsed: 26.6926
+Episode 357, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0036, Time elapsed: 30.3185
+Episode 358, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0030, Time elapsed: 27.4122
+Episode 359, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0026, Time elapsed: 54.7244
+Episode 360, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0053, Time elapsed: 31.0822
+Episode 361, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0045, Time elapsed: 36.1556
+Target network updated!
+DQNetwork saved!
+Episode 362, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0022, Time elapsed: 34.4514
+Episode 363, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0020, Time elapsed: 41.9546
+Episode 364, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0049, Time elapsed: 25.6371
+Episode 365, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0078, Time elapsed: 37.6634
+Episode 366, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0062, Time elapsed: 27.5688
+Episode 367, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0056, Time elapsed: 15.9474
+Episode 368, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0019, Time elapsed: 25.5625
+Episode 369, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0100, Time elapsed: 21.8770
+Episode 370, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0036, Time elapsed: 19.8295
+Episode 371, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0040, Time elapsed: 34.8964
+Episode 372, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0074, Time elapsed: 38.9678
+Episode 373, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0077, Time elapsed: 20.4902
+Episode 374, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0071, Time elapsed: 17.6176
+Episode 375, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0042, Time elapsed: 39.3063
+Target network updated!
+DQNetwork saved!
+Episode 376, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0043, Time elapsed: 46.5256
+Episode 377, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0052, Time elapsed: 16.5616
+Episode 378, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0070, Time elapsed: 29.6313
+Episode 379, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0047, Time elapsed: 49.0284
+Episode 380, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0050, Time elapsed: 16.4457
+Episode 381, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0045, Time elapsed: 33.8992
+Episode 382, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0032, Time elapsed: 25.1650
+Episode 383, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0046, Time elapsed: 32.6150
+Episode 384, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0032, Time elapsed: 39.5336
+Episode 385, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0075, Time elapsed: 47.0657
+Episode 386, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0040, Time elapsed: 53.3164
+Target network updated!
+DQNetwork saved!
+Episode 387, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0046, Time elapsed: 46.9116
+Episode 388, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0049, Time elapsed: 24.0104
+Episode 389, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0047, Time elapsed: 18.7763
+Episode 390, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0065, Time elapsed: 35.5725
+Episode 391, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0045, Time elapsed: 28.6873
+Episode 392, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0041, Time elapsed: 28.8696
+Episode 393, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0100, Time elapsed: 26.7918
+Episode 394, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0040, Time elapsed: 23.4605
+Episode 395, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0039, Time elapsed: 26.9551
+Episode 396, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0032, Time elapsed: 48.8654
+Episode 397, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0048, Time elapsed: 33.1568
+Episode 398, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0021, Time elapsed: 38.9304
+Episode 399, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0064, Time elapsed: 23.5908
+Target network updated!
+DQNetwork saved!
+Episode 400, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0067, Time elapsed: 55.5765
+Episode 401, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0021, Time elapsed: 22.5397
+Episode 402, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0045, Time elapsed: 23.4925
+Episode 403, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0056, Time elapsed: 20.6258
+Episode 404, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0037, Time elapsed: 28.0914
+Episode 405, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0044, Time elapsed: 27.7322
+Episode 406, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0046, Time elapsed: 36.7151
+Episode 407, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0070, Time elapsed: 22.3435
+Episode 408, exploration rate: 0.0100, final rewards: 25.0, final loss is 0.0037, Time elapsed: 57.9070
+Episode 409, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0045, Time elapsed: 21.6004
+Episode 410, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0047, Time elapsed: 26.8878
+Episode 411, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0039, Time elapsed: 23.4121
+Episode 412, exploration rate: 0.0100, final rewards: 25.0, final loss is 0.0048, Time elapsed: 53.8953
+Target network updated!
+DQNetwork saved!
+Episode 413, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0059, Time elapsed: 37.3546
+Episode 414, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0045, Time elapsed: 26.3971
+Episode 415, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0049, Time elapsed: 46.1661
+Episode 416, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0050, Time elapsed: 21.6411
+Episode 417, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0050, Time elapsed: 41.6039
+Episode 418, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0044, Time elapsed: 32.2851
+Episode 419, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0074, Time elapsed: 38.6245
+Episode 420, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0050, Time elapsed: 35.8472
+Episode 421, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0042, Time elapsed: 28.6904
+Episode 422, exploration rate: 0.0100, final rewards: 3.0, final loss is 0.0066, Time elapsed: 16.7283
+Episode 423, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0047, Time elapsed: 14.6361
+Episode 424, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0044, Time elapsed: 31.5267
+Episode 425, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0036, Time elapsed: 32.6820
+Episode 426, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0071, Time elapsed: 20.2812
+Target network updated!
+DQNetwork saved!
+Episode 427, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0063, Time elapsed: 16.9868
+Episode 428, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0076, Time elapsed: 18.8562
+Episode 429, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0051, Time elapsed: 27.9896
+Episode 430, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0049, Time elapsed: 27.4201
+Episode 431, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0059, Time elapsed: 42.1775
+Episode 432, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0045, Time elapsed: 16.6811
+Episode 433, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0043, Time elapsed: 49.1137
+Episode 434, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0035, Time elapsed: 21.2686
+Episode 435, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0047, Time elapsed: 32.9924
+Episode 436, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0032, Time elapsed: 27.6752
+Episode 437, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0042, Time elapsed: 33.6120
+Episode 438, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0034, Time elapsed: 23.4375
+Episode 439, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0076, Time elapsed: 26.3359
+Episode 440, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0054, Time elapsed: 38.9692
+Target network updated!
+DQNetwork saved!
+Episode 441, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0054, Time elapsed: 32.8225
+Episode 442, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0069, Time elapsed: 18.1903
+Episode 443, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0066, Time elapsed: 16.6011
+Episode 444, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0047, Time elapsed: 18.4901
+Episode 445, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0043, Time elapsed: 29.8740
+Episode 446, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0041, Time elapsed: 17.7705
+Episode 447, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0049, Time elapsed: 25.9761
+Episode 448, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0030, Time elapsed: 28.9301
+Episode 449, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0052, Time elapsed: 25.6886
+Episode 450, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0067, Time elapsed: 20.7389
+Episode 451, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0032, Time elapsed: 37.4700
+Episode 452, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0069, Time elapsed: 43.0970
+Episode 453, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0035, Time elapsed: 26.0761
+Episode 454, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0061, Time elapsed: 12.9331
+Episode 455, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0077, Time elapsed: 21.0987
+Episode 456, exploration rate: 0.0100, final rewards: 25.0, final loss is 0.0055, Time elapsed: 39.9699
+Target network updated!
+DQNetwork saved!
+Episode 457, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0040, Time elapsed: 27.3354
+Episode 458, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0042, Time elapsed: 21.8683
+Episode 459, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0078, Time elapsed: 38.0497
+Episode 460, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0065, Time elapsed: 26.9156
+Episode 461, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0055, Time elapsed: 32.4626
+Episode 462, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0035, Time elapsed: 39.5089
+Episode 463, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0070, Time elapsed: 17.1009
+Episode 464, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0023, Time elapsed: 50.1732
+Episode 465, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0046, Time elapsed: 24.6668
+Episode 466, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0028, Time elapsed: 52.2121
+Episode 467, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0060, Time elapsed: 17.1009
+Episode 468, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0058, Time elapsed: 54.8803
+Target network updated!
+DQNetwork saved!
+Episode 469, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0092, Time elapsed: 33.0223
+Episode 470, exploration rate: 0.0100, final rewards: 2.0, final loss is 0.0047, Time elapsed: 13.7826
+Episode 471, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0087, Time elapsed: 26.2060
+Episode 472, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0054, Time elapsed: 22.7478
+Episode 473, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0036, Time elapsed: 46.0154
+Episode 474, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0035, Time elapsed: 28.0450
+Episode 475, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0048, Time elapsed: 26.0661
+Episode 476, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0061, Time elapsed: 16.9010
+Episode 477, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0061, Time elapsed: 23.0077
+Episode 478, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0045, Time elapsed: 16.7011
+Episode 479, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0047, Time elapsed: 22.7079
+Episode 480, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0075, Time elapsed: 34.8714
+Episode 481, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0052, Time elapsed: 23.9072
+Episode 482, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0093, Time elapsed: 28.9245
+Episode 483, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0031, Time elapsed: 35.0213
+Episode 484, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0074, Time elapsed: 32.9524
+Target network updated!
+DQNetwork saved!
+Episode 485, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0044, Time elapsed: 36.3506
+Episode 486, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0010, Time elapsed: 45.8555
+Episode 487, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0071, Time elapsed: 24.8767
+Episode 488, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0040, Time elapsed: 45.6164
+Episode 489, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0032, Time elapsed: 41.0580
+Episode 490, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0042, Time elapsed: 25.4164
+Episode 491, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0086, Time elapsed: 24.9167
+Episode 492, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0053, Time elapsed: 28.9145
+Episode 493, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0049, Time elapsed: 31.6531
+Episode 494, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0061, Time elapsed: 37.7598
+Episode 495, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0017, Time elapsed: 47.8544
+Target network updated!
+DQNetwork saved!
+Episode 496, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0059, Time elapsed: 34.9113
+Episode 497, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0036, Time elapsed: 50.4730
+Episode 498, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0034, Time elapsed: 42.3574
+Episode 499, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0055, Time elapsed: 48.4441
+Episode 500, exploration rate: 0.0100, final rewards: 3.0, final loss is 0.0037, Time elapsed: 14.8421
+Episode 501, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0048, Time elapsed: 20.5990
+Episode 502, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0071, Time elapsed: 18.8899
+Episode 503, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0043, Time elapsed: 35.9408
+Episode 504, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0048, Time elapsed: 28.6447
+Episode 505, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0063, Time elapsed: 32.3627
+Episode 506, exploration rate: 0.0100, final rewards: 23.0, final loss is 0.0052, Time elapsed: 56.4052
+Episode 507, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0046, Time elapsed: 42.4073
+Target network updated!
+DQNetwork saved!
+Episode 508, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0065, Time elapsed: 18.1803
+Episode 509, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0075, Time elapsed: 41.7677
+Episode 510, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0056, Time elapsed: 20.0993
+Episode 511, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0076, Time elapsed: 32.4127
+Episode 512, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0054, Time elapsed: 16.4612
+Episode 513, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0045, Time elapsed: 41.1880
+Episode 514, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0057, Time elapsed: 48.1043
+Episode 515, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0073, Time elapsed: 26.0661
+Episode 516, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0038, Time elapsed: 20.0366
+Episode 517, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0048, Time elapsed: 25.5463
+Episode 518, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0050, Time elapsed: 37.7598
+Episode 519, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0052, Time elapsed: 49.8033
+Target network updated!
+DQNetwork saved!
+Episode 520, exploration rate: 0.0100, final rewards: 26.0, final loss is 0.0048, Time elapsed: 60.2978
+Episode 521, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0038, Time elapsed: 23.7873
+Episode 522, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0044, Time elapsed: 38.9492
+Episode 523, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0027, Time elapsed: 28.1711
+Episode 524, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0040, Time elapsed: 16.1314
+Episode 525, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0034, Time elapsed: 38.3595
+Episode 526, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0062, Time elapsed: 24.2171
+Episode 527, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0049, Time elapsed: 36.5605
+Episode 528, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0040, Time elapsed: 19.2797
+Episode 529, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0065, Time elapsed: 21.6384
+Episode 530, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0045, Time elapsed: 39.5089
+Episode 531, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0078, Time elapsed: 21.2287
+Episode 532, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0062, Time elapsed: 23.6174
+Episode 533, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0052, Time elapsed: 28.4448
+Episode 534, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0089, Time elapsed: 31.2133
+Target network updated!
+DQNetwork saved!
+Episode 535, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0067, Time elapsed: 41.7977
+Episode 536, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0051, Time elapsed: 48.4541
+Episode 537, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0059, Time elapsed: 21.8983
+Episode 538, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0029, Time elapsed: 27.9351
+Episode 539, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0051, Time elapsed: 35.0513
+Episode 540, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0036, Time elapsed: 18.2303
+Episode 541, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0032, Time elapsed: 21.8883
+Episode 542, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0016, Time elapsed: 17.1708
+Episode 543, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0052, Time elapsed: 17.2708
+Episode 544, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0054, Time elapsed: 36.7803
+Episode 545, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0079, Time elapsed: 23.7482
+Episode 546, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0029, Time elapsed: 42.0175
+Episode 547, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0045, Time elapsed: 30.3055
+Episode 548, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0040, Time elapsed: 39.4589
+Target network updated!
+DQNetwork saved!
+Episode 549, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0081, Time elapsed: 30.5737
+Episode 550, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0059, Time elapsed: 32.2628
+Episode 551, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0061, Time elapsed: 19.5096
+Episode 552, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0048, Time elapsed: 56.1900
+Episode 553, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0078, Time elapsed: 25.7662
+Episode 554, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0045, Time elapsed: 26.7757
+Episode 555, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0052, Time elapsed: 29.2044
+Episode 556, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0017, Time elapsed: 58.0390
+Episode 557, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0057, Time elapsed: 33.8419
+Episode 558, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0045, Time elapsed: 31.8530
+Episode 559, exploration rate: 0.0100, final rewards: 23.0, final loss is 0.0054, Time elapsed: 61.1273
+Target network updated!
+DQNetwork saved!
+Episode 560, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0032, Time elapsed: 26.5358
+Episode 561, exploration rate: 0.0100, final rewards: 3.0, final loss is 0.0057, Time elapsed: 12.9031
+Episode 562, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0037, Time elapsed: 14.0925
+Episode 563, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0040, Time elapsed: 39.5326
+Episode 564, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0108, Time elapsed: 37.4500
+Episode 565, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0047, Time elapsed: 15.7916
+Episode 566, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0023, Time elapsed: 27.5553
+Episode 567, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0032, Time elapsed: 33.3222
+Episode 568, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0045, Time elapsed: 20.6889
+Episode 569, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0050, Time elapsed: 34.1417
+Episode 570, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0026, Time elapsed: 42.1375
+Episode 571, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0071, Time elapsed: 25.5091
+Episode 572, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0046, Time elapsed: 23.7565
+Episode 573, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0031, Time elapsed: 14.7636
+Episode 574, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0071, Time elapsed: 46.9549
+Target network updated!
+DQNetwork saved!
+Episode 575, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0063, Time elapsed: 18.5150
+Episode 576, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0053, Time elapsed: 50.3821
+Episode 577, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0044, Time elapsed: 17.4799
+Episode 578, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0065, Time elapsed: 20.4485
+Episode 579, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0044, Time elapsed: 28.1996
+Episode 580, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0042, Time elapsed: 18.1391
+Episode 581, exploration rate: 0.0100, final rewards: 2.0, final loss is 0.0060, Time elapsed: 19.6687
+Episode 582, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0029, Time elapsed: 54.4264
+Episode 583, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0047, Time elapsed: 26.6474
+Episode 584, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0060, Time elapsed: 27.7128
+Episode 585, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0056, Time elapsed: 21.0346
+Episode 586, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0021, Time elapsed: 37.3514
+Episode 587, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0040, Time elapsed: 24.5964
+Episode 588, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0048, Time elapsed: 25.6000
+Episode 589, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0038, Time elapsed: 21.7471
+Target network updated!
+DQNetwork saved!
+Episode 590, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0060, Time elapsed: 29.9392
+Episode 591, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0042, Time elapsed: 25.3952
+Episode 592, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0043, Time elapsed: 48.7099
+Episode 593, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0060, Time elapsed: 19.6461
+Episode 594, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0040, Time elapsed: 18.4045
+Episode 595, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0053, Time elapsed: 29.3344
+Episode 596, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0024, Time elapsed: 27.3811
+Episode 597, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0033, Time elapsed: 21.0248
+Episode 598, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0058, Time elapsed: 39.7130
+Episode 599, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0051, Time elapsed: 39.4573
+Episode 600, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0058, Time elapsed: 21.3190
+Episode 601, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0054, Time elapsed: 21.4904
+Episode 602, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0058, Time elapsed: 30.2890
+Episode 603, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0057, Time elapsed: 27.1508
+Target network updated!
+DQNetwork saved!
+Episode 604, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0074, Time elapsed: 29.1818
+Episode 605, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0096, Time elapsed: 31.8788
+Episode 606, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0045, Time elapsed: 15.6852
+Episode 607, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0060, Time elapsed: 32.0587
+Episode 608, exploration rate: 0.0100, final rewards: 25.0, final loss is 0.0034, Time elapsed: 54.4405
+Episode 609, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0044, Time elapsed: 36.9563
+Episode 610, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0045, Time elapsed: 26.5505
+Episode 611, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0048, Time elapsed: 36.5531
+Episode 612, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0043, Time elapsed: 22.2875
+Episode 613, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0025, Time elapsed: 18.0242
+Episode 614, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0061, Time elapsed: 36.1961
+Episode 615, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0031, Time elapsed: 38.8458
+Episode 616, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0051, Time elapsed: 14.9366
+Episode 617, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0066, Time elapsed: 32.4754
+Target network updated!
+DQNetwork saved!
+Episode 618, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0049, Time elapsed: 28.8323
+Episode 619, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0054, Time elapsed: 26.0221
+Episode 620, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0040, Time elapsed: 45.4778
+Episode 621, exploration rate: 0.0100, final rewards: 23.0, final loss is 0.0039, Time elapsed: 55.5555
+Episode 622, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0039, Time elapsed: 14.9113
+Episode 623, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0047, Time elapsed: 30.7102
+Episode 624, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0086, Time elapsed: 30.0271
+Episode 625, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0052, Time elapsed: 26.5063
+Episode 626, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0063, Time elapsed: 36.4467
+Episode 627, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0052, Time elapsed: 37.0073
+Episode 628, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0043, Time elapsed: 42.8990
+Episode 629, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0056, Time elapsed: 16.4179
+Target network updated!
+DQNetwork saved!
+Episode 630, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0096, Time elapsed: 24.5042
+Episode 631, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0057, Time elapsed: 30.2515
+Episode 632, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0038, Time elapsed: 28.1314
+Episode 633, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0041, Time elapsed: 20.0642
+Episode 634, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0058, Time elapsed: 38.7573
+Episode 635, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0037, Time elapsed: 38.8574
+Episode 636, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0045, Time elapsed: 40.3472
+Episode 637, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0110, Time elapsed: 39.7876
+Episode 638, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0055, Time elapsed: 22.6013
+Episode 639, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0042, Time elapsed: 24.0952
+Episode 640, exploration rate: 0.0100, final rewards: 1.0, final loss is 0.0037, Time elapsed: 15.6142
+Episode 641, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0038, Time elapsed: 21.9979
+Episode 642, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0037, Time elapsed: 45.5830
+Episode 643, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0062, Time elapsed: 20.3483
+Episode 644, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0061, Time elapsed: 16.1039
+Target network updated!
+DQNetwork saved!
+Episode 645, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0087, Time elapsed: 27.9024
+Episode 646, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0028, Time elapsed: 40.8151
+Episode 647, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0042, Time elapsed: 18.8946
+Episode 648, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0043, Time elapsed: 24.5401
+Episode 649, exploration rate: 0.0100, final rewards: 1.0, final loss is 0.0072, Time elapsed: 22.0469
+Episode 650, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0039, Time elapsed: 17.9904
+Episode 651, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0029, Time elapsed: 28.6352
+Episode 652, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0056, Time elapsed: 22.9675
+Episode 653, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0046, Time elapsed: 28.4435
+Episode 654, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0043, Time elapsed: 29.0224
+Episode 655, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0071, Time elapsed: 28.3692
+Episode 656, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0035, Time elapsed: 22.3306
+Episode 657, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0068, Time elapsed: 17.4050
+Episode 658, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0044, Time elapsed: 14.5573
+Episode 659, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0073, Time elapsed: 25.6780
+Episode 660, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0053, Time elapsed: 26.6439
+Target network updated!
+DQNetwork saved!
+Episode 661, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0058, Time elapsed: 42.4982
+Episode 662, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0067, Time elapsed: 19.9153
+Episode 663, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0020, Time elapsed: 20.1325
+Episode 664, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0034, Time elapsed: 28.5835
+Episode 665, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0066, Time elapsed: 33.4696
+Episode 666, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0032, Time elapsed: 21.7441
+Episode 667, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0060, Time elapsed: 32.4267
+Episode 668, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0041, Time elapsed: 30.9800
+Episode 669, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0028, Time elapsed: 35.8313
+Episode 670, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0025, Time elapsed: 14.9356
+Episode 671, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0063, Time elapsed: 47.3225
+Episode 672, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0061, Time elapsed: 29.6400
+Episode 673, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0046, Time elapsed: 28.3001
+Episode 674, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0056, Time elapsed: 21.4269
+Episode 675, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0043, Time elapsed: 20.6339
+Target network updated!
+DQNetwork saved!
+Episode 676, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0048, Time elapsed: 23.2332
+Episode 677, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0031, Time elapsed: 27.9941
+Episode 678, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0060, Time elapsed: 24.7918
+Episode 679, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0084, Time elapsed: 26.6153
+Episode 680, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0040, Time elapsed: 28.1580
+Episode 681, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0069, Time elapsed: 26.6096
+Episode 682, exploration rate: 0.0100, final rewards: 2.0, final loss is 0.0048, Time elapsed: 13.5452
+Episode 683, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0049, Time elapsed: 16.1066
+Episode 684, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0018, Time elapsed: 21.1519
+Episode 685, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0054, Time elapsed: 24.0414
+Episode 686, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0036, Time elapsed: 31.9673
+Episode 687, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0043, Time elapsed: 46.1054
+Episode 688, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0026, Time elapsed: 24.8535
+Episode 689, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0067, Time elapsed: 47.3423
+Episode 690, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0051, Time elapsed: 23.1469
+Target network updated!
+DQNetwork saved!
+Episode 691, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0068, Time elapsed: 26.8853
+Episode 692, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0031, Time elapsed: 24.3768
+Episode 693, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0043, Time elapsed: 16.1576
+Episode 694, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0045, Time elapsed: 15.4177
+Episode 695, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0037, Time elapsed: 29.1051
+Episode 696, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0089, Time elapsed: 31.8609
+Episode 697, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0066, Time elapsed: 53.9861
+Episode 698, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0056, Time elapsed: 38.0010
+Episode 699, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0045, Time elapsed: 22.6877
+Episode 700, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0010, Time elapsed: 17.1140
+Episode 701, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0081, Time elapsed: 21.2428
+Episode 702, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0043, Time elapsed: 27.1130
+Episode 703, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0068, Time elapsed: 26.6302
+Episode 704, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0059, Time elapsed: 15.6299
+Episode 705, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0054, Time elapsed: 20.9637
+Episode 706, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0046, Time elapsed: 22.1149
+Target network updated!
+DQNetwork saved!
+Episode 707, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0039, Time elapsed: 30.9254
+Episode 708, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0061, Time elapsed: 35.8150
+Episode 709, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0037, Time elapsed: 55.0681
+Episode 710, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0063, Time elapsed: 35.2480
+Episode 711, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0029, Time elapsed: 29.4864
+Episode 712, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0032, Time elapsed: 39.2456
+Episode 713, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0047, Time elapsed: 26.5002
+Episode 714, exploration rate: 0.0100, final rewards: 23.0, final loss is 0.0064, Time elapsed: 38.6235
+Episode 715, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0043, Time elapsed: 17.4826
+Episode 716, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0044, Time elapsed: 31.0960
+Episode 717, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0038, Time elapsed: 24.8556
+Episode 718, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0035, Time elapsed: 28.0787
+Target network updated!
+DQNetwork saved!
+Episode 719, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0059, Time elapsed: 35.6025
+Episode 720, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0034, Time elapsed: 54.4008
+Episode 721, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0024, Time elapsed: 27.4839
+Episode 722, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0052, Time elapsed: 28.3842
+Episode 723, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0041, Time elapsed: 27.6459
+Episode 724, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0063, Time elapsed: 17.0750
+Episode 725, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0045, Time elapsed: 36.7588
+Episode 726, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0034, Time elapsed: 28.2016
+Episode 727, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0035, Time elapsed: 34.4139
+Episode 728, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0041, Time elapsed: 20.1628
+Episode 729, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0016, Time elapsed: 35.8201
+Episode 730, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0050, Time elapsed: 21.9393
+Episode 731, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0030, Time elapsed: 27.8296
+Episode 732, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0055, Time elapsed: 26.9951
+Target network updated!
+DQNetwork saved!
+Episode 733, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0042, Time elapsed: 30.6093
+Episode 734, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0094, Time elapsed: 21.1837
+Episode 735, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0063, Time elapsed: 19.0713
+Episode 736, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0045, Time elapsed: 31.6053
+Episode 737, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0034, Time elapsed: 32.6849
+Episode 738, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0070, Time elapsed: 17.6921
+Episode 739, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0032, Time elapsed: 27.1592
+Episode 740, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0032, Time elapsed: 43.6857
+Episode 741, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0084, Time elapsed: 17.5243
+Episode 742, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0046, Time elapsed: 25.9864
+Episode 743, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0050, Time elapsed: 28.7061
+Episode 744, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0070, Time elapsed: 26.3215
+Episode 745, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0054, Time elapsed: 37.3030
+Episode 746, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0052, Time elapsed: 24.0122
+Episode 747, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0049, Time elapsed: 17.0964
+Target network updated!
+DQNetwork saved!
+Episode 748, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0049, Time elapsed: 31.2740
+Episode 749, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0049, Time elapsed: 20.1966
+Episode 750, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0046, Time elapsed: 21.6047
+Episode 751, exploration rate: 0.0100, final rewards: 20.0, final loss is 0.0035, Time elapsed: 41.8593
+Episode 752, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0059, Time elapsed: 27.3091
+Episode 753, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0041, Time elapsed: 23.1882
+Episode 754, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0050, Time elapsed: 20.4178
+Episode 755, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0065, Time elapsed: 22.7904
+Episode 756, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0051, Time elapsed: 22.0252
+Episode 757, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0067, Time elapsed: 13.6792
+Episode 758, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0047, Time elapsed: 15.5964
+Episode 759, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0132, Time elapsed: 16.4794
+Episode 760, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0063, Time elapsed: 34.4295
+Episode 761, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0065, Time elapsed: 23.3791
+Episode 762, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0050, Time elapsed: 16.5466
+Episode 763, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0073, Time elapsed: 35.3315
+Episode 764, exploration rate: 0.0100, final rewards: 23.0, final loss is 0.0079, Time elapsed: 40.8562
+Target network updated!
+DQNetwork saved!
+Episode 765, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0042, Time elapsed: 30.9109
+Episode 766, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0042, Time elapsed: 47.5763
+Episode 767, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0077, Time elapsed: 20.3004
+Episode 768, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0031, Time elapsed: 39.0526
+Episode 769, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0055, Time elapsed: 40.2988
+Episode 770, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0047, Time elapsed: 33.9753
+Episode 771, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0051, Time elapsed: 39.1042
+Episode 772, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0046, Time elapsed: 14.3255
+Episode 773, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0066, Time elapsed: 16.4192
+Episode 774, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0127, Time elapsed: 21.5630
+Episode 775, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0073, Time elapsed: 34.7487
+Episode 776, exploration rate: 0.0100, final rewards: 1.0, final loss is 0.0053, Time elapsed: 15.2503
+Episode 777, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0040, Time elapsed: 16.2002
+Episode 778, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0041, Time elapsed: 44.0369
+Target network updated!
+DQNetwork saved!
+Episode 779, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0084, Time elapsed: 23.7806
+Episode 780, exploration rate: 0.0100, final rewards: 1.0, final loss is 0.0051, Time elapsed: 14.5247
+Episode 781, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0059, Time elapsed: 19.9080
+Episode 782, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0043, Time elapsed: 40.5287
+Episode 783, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0053, Time elapsed: 20.0118
+Episode 784, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0052, Time elapsed: 24.0228
+Episode 785, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0049, Time elapsed: 19.5404
+Episode 786, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0046, Time elapsed: 46.5908
+Episode 787, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0082, Time elapsed: 26.2678
+Episode 788, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0048, Time elapsed: 20.4973
+Episode 789, exploration rate: 0.0100, final rewards: 3.0, final loss is 0.0043, Time elapsed: 17.3908
+Episode 790, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0054, Time elapsed: 34.1391
+Episode 791, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0026, Time elapsed: 19.1121
+Episode 792, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0078, Time elapsed: 26.1791
+Episode 793, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0058, Time elapsed: 38.0324
+Target network updated!
+DQNetwork saved!
+Episode 794, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0029, Time elapsed: 32.6428
+Episode 795, exploration rate: 0.0100, final rewards: 23.0, final loss is 0.0059, Time elapsed: 44.8024
+Episode 796, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0032, Time elapsed: 28.2012
+Episode 797, exploration rate: 0.0100, final rewards: 28.0, final loss is 0.0030, Time elapsed: 52.0470
+Episode 798, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0053, Time elapsed: 27.8048
+Episode 799, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0053, Time elapsed: 27.3004
+Episode 800, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0051, Time elapsed: 33.9676
+Episode 801, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0073, Time elapsed: 29.4739
+Episode 802, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0040, Time elapsed: 23.1473
+Episode 803, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0034, Time elapsed: 15.7041
+Episode 804, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0029, Time elapsed: 32.7438
+Episode 805, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0052, Time elapsed: 24.2652
+Episode 806, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0059, Time elapsed: 35.4349
+Episode 807, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0063, Time elapsed: 23.1237
+Target network updated!
+DQNetwork saved!
+Episode 808, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0047, Time elapsed: 25.3507
+Episode 809, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0055, Time elapsed: 21.9437
+Episode 810, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0034, Time elapsed: 27.8156
+Episode 811, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0051, Time elapsed: 14.6970
+Episode 812, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0058, Time elapsed: 29.2210
+Episode 813, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0026, Time elapsed: 46.0774
+Episode 814, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0045, Time elapsed: 31.1196
+Episode 815, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0070, Time elapsed: 27.7900
+Episode 816, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0051, Time elapsed: 22.5843
+Episode 817, exploration rate: 0.0100, final rewards: 3.0, final loss is 0.0037, Time elapsed: 16.8963
+Episode 818, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0033, Time elapsed: 24.8400
+Episode 819, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0052, Time elapsed: 25.8600
+Episode 820, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0047, Time elapsed: 18.5015
+Episode 821, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0044, Time elapsed: 20.4408
+Episode 822, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0042, Time elapsed: 24.5835
+Episode 823, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0052, Time elapsed: 23.0473
+Target network updated!
+DQNetwork saved!
+Episode 824, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0029, Time elapsed: 22.3127
+Episode 825, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0040, Time elapsed: 15.8090
+Episode 826, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0083, Time elapsed: 34.2394
+Episode 827, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0044, Time elapsed: 31.7720
+Episode 828, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0039, Time elapsed: 23.0299
+Episode 829, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0040, Time elapsed: 16.4866
+Episode 830, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0043, Time elapsed: 21.2200
+Episode 831, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0025, Time elapsed: 23.6757
+Episode 832, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0024, Time elapsed: 34.6318
+Episode 833, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0051, Time elapsed: 45.3762
+Episode 834, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0050, Time elapsed: 28.6725
+Episode 835, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0049, Time elapsed: 29.2042
+Episode 836, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0023, Time elapsed: 13.9175
+Episode 837, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0027, Time elapsed: 25.8572
+Episode 838, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0024, Time elapsed: 29.5242
+Target network updated!
+DQNetwork saved!
+Episode 839, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0050, Time elapsed: 29.7412
+Episode 840, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0046, Time elapsed: 24.5691
+Episode 841, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0037, Time elapsed: 28.2519
+Episode 842, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0070, Time elapsed: 18.9933
+Episode 843, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0053, Time elapsed: 22.7352
+Episode 844, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0037, Time elapsed: 31.7186
+Episode 845, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0024, Time elapsed: 23.1747
+Episode 846, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0047, Time elapsed: 25.6314
+Episode 847, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0060, Time elapsed: 30.1139
+Episode 848, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0033, Time elapsed: 16.3612
+Episode 849, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0042, Time elapsed: 21.3749
+Episode 850, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0061, Time elapsed: 28.2014
+Episode 851, exploration rate: 0.0100, final rewards: 2.0, final loss is 0.0091, Time elapsed: 20.3329
+Episode 852, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0039, Time elapsed: 32.7732
+Episode 853, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0055, Time elapsed: 15.7855
+Episode 854, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0072, Time elapsed: 26.2632
+Episode 855, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0057, Time elapsed: 33.1263
+Target network updated!
+DQNetwork saved!
+Episode 856, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0037, Time elapsed: 33.2216
+Episode 857, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0062, Time elapsed: 19.6119
+Episode 858, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0042, Time elapsed: 15.5865
+Episode 859, exploration rate: 0.0100, final rewards: 31.0, final loss is 0.0047, Time elapsed: 58.3639
+Episode 860, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0049, Time elapsed: 20.8552
+Episode 861, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0038, Time elapsed: 29.0386
+Episode 862, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0057, Time elapsed: 26.7013
+Episode 863, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0050, Time elapsed: 47.7884
+Episode 864, exploration rate: 0.0100, final rewards: 28.0, final loss is 0.0031, Time elapsed: 72.2163
+Episode 865, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0038, Time elapsed: 54.3223
+Episode 866, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0069, Time elapsed: 28.5175
+Target network updated!
+DQNetwork saved!
+Episode 867, exploration rate: 0.0100, final rewards: 2.0, final loss is 0.0073, Time elapsed: 16.9755
+Episode 868, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0053, Time elapsed: 31.6039
+Episode 869, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0103, Time elapsed: 22.5387
+Episode 870, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0045, Time elapsed: 39.7973
+Episode 871, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0062, Time elapsed: 39.8506
+Episode 872, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0056, Time elapsed: 26.4747
+Episode 873, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0039, Time elapsed: 23.8493
+Episode 874, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0045, Time elapsed: 28.1431
+Episode 875, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0043, Time elapsed: 16.6733
+Episode 876, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0032, Time elapsed: 26.4286
+Episode 877, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0043, Time elapsed: 37.6066
+Episode 878, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0037, Time elapsed: 16.0755
+Episode 879, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0043, Time elapsed: 39.2970
+Episode 880, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0055, Time elapsed: 16.2670
+Episode 881, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0054, Time elapsed: 26.1140
+Target network updated!
+DQNetwork saved!
+Episode 882, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0066, Time elapsed: 18.1134
+Episode 883, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0028, Time elapsed: 38.9193
+Episode 884, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0055, Time elapsed: 20.9159
+Episode 885, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0080, Time elapsed: 20.0482
+Episode 886, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0045, Time elapsed: 26.9921
+Episode 887, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0064, Time elapsed: 40.2715
+Episode 888, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0064, Time elapsed: 20.2703
+Episode 889, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0024, Time elapsed: 27.7044
+Episode 890, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0043, Time elapsed: 26.6383
+Episode 891, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0065, Time elapsed: 38.9366
+Episode 892, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0052, Time elapsed: 20.9569
+Episode 893, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0038, Time elapsed: 25.6044
+Episode 894, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0069, Time elapsed: 36.8417
+Episode 895, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0060, Time elapsed: 23.5185
+Episode 896, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0029, Time elapsed: 19.7480
+Target network updated!
+DQNetwork saved!
+Episode 897, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0054, Time elapsed: 45.7182
+Episode 898, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0026, Time elapsed: 25.6999
+Episode 899, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0069, Time elapsed: 36.7370
+Episode 900, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0079, Time elapsed: 16.9659
+Episode 901, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0026, Time elapsed: 18.7960
+Episode 902, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0043, Time elapsed: 24.1587
+Episode 903, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0053, Time elapsed: 44.6815
+Episode 904, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0062, Time elapsed: 29.8267
+Episode 905, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0040, Time elapsed: 27.7446
+Episode 906, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0087, Time elapsed: 25.2728
+Episode 907, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0048, Time elapsed: 30.2052
+Episode 908, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0049, Time elapsed: 24.6586
+Episode 909, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0055, Time elapsed: 28.8800
+Episode 910, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0061, Time elapsed: 28.4256
+Target network updated!
+DQNetwork saved!
+Episode 911, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0061, Time elapsed: 35.4381
+Episode 912, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0031, Time elapsed: 39.6049
+Episode 913, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0033, Time elapsed: 29.3107
+Episode 914, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0080, Time elapsed: 27.5867
+Episode 915, exploration rate: 0.0100, final rewards: 17.0, final loss is 0.0056, Time elapsed: 39.9156
+Episode 916, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0051, Time elapsed: 27.8044
+Episode 917, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0038, Time elapsed: 28.6736
+Episode 918, exploration rate: 0.0100, final rewards: 13.0, final loss is 0.0057, Time elapsed: 37.6722
+Episode 919, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0059, Time elapsed: 15.8165
+Episode 920, exploration rate: 0.0100, final rewards: 3.0, final loss is 0.0053, Time elapsed: 15.0227
+Episode 921, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0057, Time elapsed: 46.6574
+Episode 922, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0056, Time elapsed: 50.6750
+Episode 923, exploration rate: 0.0100, final rewards: 2.0, final loss is 0.0026, Time elapsed: 13.7951
+Target network updated!
+DQNetwork saved!
+Episode 924, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0062, Time elapsed: 29.4907
+Episode 925, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0064, Time elapsed: 47.1867
+Episode 926, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0049, Time elapsed: 31.6720
+Episode 927, exploration rate: 0.0100, final rewards: 27.0, final loss is 0.0040, Time elapsed: 41.7181
+Episode 928, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0078, Time elapsed: 26.6744
+Episode 929, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0035, Time elapsed: 21.1167
+Episode 930, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0045, Time elapsed: 27.2087
+Episode 931, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0062, Time elapsed: 27.5999
+Episode 932, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0063, Time elapsed: 19.3170
+Episode 933, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0035, Time elapsed: 41.5869
+Episode 934, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0041, Time elapsed: 14.2767
+Episode 935, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0040, Time elapsed: 25.4858
+Episode 936, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0047, Time elapsed: 34.1520
+Episode 937, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0065, Time elapsed: 27.5520
+Target network updated!
+DQNetwork saved!
+Episode 938, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0031, Time elapsed: 28.5382
+Episode 939, exploration rate: 0.0100, final rewards: 3.0, final loss is 0.0046, Time elapsed: 23.2721
+Episode 940, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0069, Time elapsed: 34.0262
+Episode 941, exploration rate: 0.0100, final rewards: 11.0, final loss is 0.0069, Time elapsed: 27.3329
+Episode 942, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0035, Time elapsed: 32.0871
+Episode 943, exploration rate: 0.0100, final rewards: 21.0, final loss is 0.0030, Time elapsed: 49.7462
+Episode 944, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0061, Time elapsed: 42.7970
+Episode 945, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0042, Time elapsed: 14.5790
+Episode 946, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0056, Time elapsed: 43.9813
+Episode 947, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0070, Time elapsed: 14.2345
+Episode 948, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0035, Time elapsed: 36.7800
+Episode 949, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0066, Time elapsed: 18.6673
+Episode 950, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0059, Time elapsed: 40.4203
+Target network updated!
+DQNetwork saved!
+Episode 951, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0053, Time elapsed: 40.4019
+Episode 952, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0050, Time elapsed: 21.2846
+Episode 953, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0039, Time elapsed: 21.3365
+Episode 954, exploration rate: 0.0100, final rewards: 15.0, final loss is 0.0092, Time elapsed: 36.4454
+Episode 955, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0064, Time elapsed: 15.7478
+Episode 956, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0053, Time elapsed: 21.7516
+Episode 957, exploration rate: 0.0100, final rewards: 28.0, final loss is 0.0046, Time elapsed: 50.1138
+Episode 958, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0032, Time elapsed: 20.6523
+Episode 959, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0044, Time elapsed: 30.3443
+Episode 960, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0054, Time elapsed: 24.5012
+Episode 961, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0039, Time elapsed: 22.1138
+Episode 962, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0046, Time elapsed: 24.7305
+Episode 963, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0052, Time elapsed: 14.4470
+Episode 964, exploration rate: 0.0100, final rewards: 12.0, final loss is 0.0079, Time elapsed: 37.4361
+Target network updated!
+DQNetwork saved!
+Episode 965, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0082, Time elapsed: 41.2058
+Episode 966, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0032, Time elapsed: 25.8795
+Episode 967, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0034, Time elapsed: 28.0614
+Episode 968, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0090, Time elapsed: 27.9437
+Episode 969, exploration rate: 0.0100, final rewards: 18.0, final loss is 0.0028, Time elapsed: 45.6472
+Episode 970, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0062, Time elapsed: 44.2444
+Episode 971, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0038, Time elapsed: 38.0393
+Episode 972, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0077, Time elapsed: 38.9365
+Episode 973, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0061, Time elapsed: 25.2863
+Episode 974, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0043, Time elapsed: 26.4069
+Episode 975, exploration rate: 0.0100, final rewards: 19.0, final loss is 0.0045, Time elapsed: 43.4157
+Episode 976, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0080, Time elapsed: 14.5246
+Episode 977, exploration rate: 0.0100, final rewards: 10.0, final loss is 0.0031, Time elapsed: 38.5493
+Target network updated!
+DQNetwork saved!
+Episode 978, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0036, Time elapsed: 26.0352
+Episode 979, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0056, Time elapsed: 19.8247
+Episode 980, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0041, Time elapsed: 28.4617
+Episode 981, exploration rate: 0.0100, final rewards: 27.0, final loss is 0.0090, Time elapsed: 48.4671
+Episode 982, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0032, Time elapsed: 24.9798
+Episode 983, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0054, Time elapsed: 24.9465
+Episode 984, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0049, Time elapsed: 22.3624
+Episode 985, exploration rate: 0.0100, final rewards: 14.0, final loss is 0.0062, Time elapsed: 30.1214
+Episode 986, exploration rate: 0.0100, final rewards: 24.0, final loss is 0.0061, Time elapsed: 46.9507
+Episode 987, exploration rate: 0.0100, final rewards: 9.0, final loss is 0.0048, Time elapsed: 27.0671
+Episode 988, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0026, Time elapsed: 21.4490
+Episode 989, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0051, Time elapsed: 21.4222
+Episode 990, exploration rate: 0.0100, final rewards: 4.0, final loss is 0.0040, Time elapsed: 20.7033
+Episode 991, exploration rate: 0.0100, final rewards: 16.0, final loss is 0.0041, Time elapsed: 43.7017
+Target network updated!
+DQNetwork saved!
+Episode 992, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0038, Time elapsed: 27.5045
+Episode 993, exploration rate: 0.0100, final rewards: 5.0, final loss is 0.0031, Time elapsed: 24.1688
+Episode 994, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0046, Time elapsed: 44.1437
+Episode 995, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0037, Time elapsed: 27.8129
+Episode 996, exploration rate: 0.0100, final rewards: 27.0, final loss is 0.0043, Time elapsed: 60.5806
+Episode 997, exploration rate: 0.0100, final rewards: 22.0, final loss is 0.0088, Time elapsed: 46.1126
+Episode 998, exploration rate: 0.0100, final rewards: 6.0, final loss is 0.0058, Time elapsed: 20.3747
+Episode 999, exploration rate: 0.0100, final rewards: 7.0, final loss is 0.0061, Time elapsed: 26.1655
+Episode 1000, exploration rate: 0.0100, final rewards: 8.0, final loss is 0.0023, Time elapsed: 20.8892
+Training Done
+DQNetwork saved!
