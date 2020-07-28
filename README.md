@@ -1,6 +1,13 @@
 # Reinforcement Learning Algorithms
 This repository contains a series of reinforcement learning algorithms applied to different environments in OpenAI Gym aimed at training agents to play games optimally.
 
+## Content
+* [Taxi with TD Q table learning](#taxi-v3)
+* Frazen lake with Monte Carlo Q table learning 
+* Cartpole with TD Q table learning
+* Cartpole with Deep Q Learning 
+* Space invader with Dueling Double Deep Q Network and Prioritised Experience Replay
+
 ## Taxi V3
 Inside this grid environment, the objective is for the taxi to pick up the passenger from a location and drop him to the desired destination. There are 500 possible states in this 5x5 grid containing information of location of taxi and location of passenger and 6 actions for the taxi (up, down, left, right, pickup and dropoff).
 
@@ -27,7 +34,7 @@ Two methods have been applied:
 ## Space Invader
 The objective is to train a deep Q network to play the Atari space invader game and obtain the highest score as possible. The input state is a stacked frames of size 4 frame that has been processed and the output consists of 6 actions of the game. A convolutional neural network has been used to model the state to action function. 
 
-<img src="/img/poster.jpg" width="100"> <img src="/img/dqn.jpg" width="500">
+<img src="/img/poster.jpg" width="150"> <img src="/img/dqn.jpg" width="600">
 
 * Double DQN - uses an additional target network that predicts the Q values of the next state which is frozen during training. This allows the main network to train stably without the target network being altered with it. The target network is then updated every N iterations of training. 
 * Dueling DQN - a special type of neural network architecture that produces two streams to model the values of being in a state and the value of each action provided that the agent is in that state. This helps the agent to learn quicker by undertanding good states and bad states to be in before considering the actions to take. 
