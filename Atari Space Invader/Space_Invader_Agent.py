@@ -14,6 +14,7 @@ import gym
 import time
 from collections import deque
 import matplotlib.pyplot as plt
+import pickle
 
 from skimage import transform 
 from skimage.color import rgb2gray 
@@ -43,6 +44,7 @@ class Agent:
         
         self.model = Model(self.input_shape, self.action_size)
         self.model.update_model()   
+        self.sess_path = r"C:\Projects\Personal Projects\Saved_Sessions\Space_Invader\last_train_sess.pkl"
 
     def preprocess_frame(self, frame):
         ''' 
@@ -139,19 +141,28 @@ class Agent:
         self.test(1, model = self.model.DQNetwork, render=True)
         
         
-    def run(self):
-        # Delete log directory 
-        if os.path.isdir(self.model.log_path):
-            shutil.rmtree(self.model.log_path)
+    def run(self, continue_sess=False):
+        # Delete log directory  
+        # if os.path.isdir(self.model.log_path):
+        #     shutil.rmtree(self.model.log_path)
+        
+        if continue_sess:
+            self.model.load_model()
+            with open(self.sess_path, 'rb') as f:  
+                start_episode, total_steps, rewards, losses, self.EXPLORATION_RATE, self.memory = pickle.load(f)
+            print("Continuing training from episode: {},  step: {}, exploration_rate: {:.4f}, Memory Size: {}"\
+                  .format(start_episode, total_steps, self.EXPLORATION_RATE, self.memory.memory_tree.capacity_filled))
+        else:
+            self.initialise_memory()
+            total_steps = 0
+            losses = []
+            rewards = []
+            start_episode = 0
             
-        self.initialise_memory()
-        total_steps = 0
-        losses = []
-        rewards = []
-        steps = []
+        steps = []    
         start_time = time.time()
-        total_epsiodes = 1000
-        for i in range(0, total_epsiodes):
+        total_epsiodes = start_episode +5
+        for i in range(start_episode, total_epsiodes):
             
             # Make a new episode and observe the first state
             state = self.env.reset()
@@ -211,7 +222,12 @@ class Agent:
         
         # Save model at the end of training 
         print("Training Done")
+        self.model.update_model()
         self.model.save_model() 
+        
+        # save variables to continue training
+        with open(self.sess_path, 'wb') as f:  # Python 3: open(..., 'wb')
+            pickle.dump([i+1, total_steps, rewards, losses, self.EXPLORATION_RATE, self.memory], f, protocol=-1)     
         
         # Save plot 
         plt.plot(rewards)
@@ -221,5 +237,5 @@ class Agent:
         
 if __name__ == "__main__":
     agent = Agent()
-    #agent.run()
-    agent.restore_and_test()
+    agent.run(continue_sess=False)
+    # agent.restore_and_test()

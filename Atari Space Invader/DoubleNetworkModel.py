@@ -29,7 +29,7 @@ class Model:
         self.path =  "./Models/model.ckpt"
         
         # For logging
-        self.log_path = "./tensorboard/dddqn/1"
+        self.log_path = r"C:\Projects\Personal Projects\Saved_Sessions\Space_Invader\tensorboard\dddqn\1"
         self.writer = tf.summary.FileWriter(self.log_path)
         tf.summary.scalar("Loss", self.DQNetwork.loss)
         tf.summary.scalar("Mean_Target", self.DQNetwork.mean_target)
@@ -115,7 +115,8 @@ class Model:
             self.writer.flush()
 
         return loss, absolute_errors
-        
+
+
     def update_model(self):
         '''
         FUNCTION: update the target model
