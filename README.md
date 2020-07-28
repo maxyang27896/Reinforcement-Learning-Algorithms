@@ -2,11 +2,11 @@
 This repository contains a series of reinforcement learning algorithms applied to different environments in OpenAI Gym aimed at training agents to play games optimally.
 
 ## Content
-* [Taxi with TD Q table learning](#taxi-v3)
-* Frazen lake with Monte Carlo Q table learning 
-* Cartpole with TD Q table learning
-* Cartpole with Deep Q Learning 
-* Space invader with Dueling Double Deep Q Network and Prioritised Experience Replay
+* [Taxi with TD Q table learning](https://github.com/maxyang27896/Reinforcement-Learning-Algorithms/tree/master/Taxi%20V3)
+* [Frozen lake](https://github.com/maxyang27896/Reinforcement-Learning-Algorithms/tree/master/Frozen%20Lake) with Monte Carlo Q table learning
+* [Cartpole with TD Q table learning](https://github.com/maxyang27896/Reinforcement-Learning-Algorithms/tree/master/Cartpole)
+* [Cartpole with Deep Q Learning](https://github.com/maxyang27896/Reinforcement-Learning-Algorithms/tree/master/Cartpole)
+* [Space invader](https://github.com/maxyang27896/Reinforcement-Learning-Algorithms/tree/master/Atari%20Space%20Invader) with Dueling Double Deep Q Network and Prioritised Experience Replay
 
 ## Frozen Lake
 Inside this grid environment, the objective is to move the agent from a fixed starting location to aa fixed destination. There are holes in the grid where it would cause the agent to lose the game. There are 16 states in this 4x4 grid containing information of the location of the agent and the actions are (up, down, left, right). This is nondeterministic environment where each forward action has a probability of 33% of achieving the desired effect. 
