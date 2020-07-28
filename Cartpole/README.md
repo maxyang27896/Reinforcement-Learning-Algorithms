@@ -1,6 +1,8 @@
-## Taxi V3
-Inside this grid environment, the objective is for the taxi to pick up the passenger from a location and drop him to the desired destination. There are 500 possible states in this 5x5 grid containing information of location of taxi and location of passenger and 6 actions for the taxi (up, down, left, right, pickup and dropoff).
+## Cartpole
+The objective of the Cartpole problem is to balance a inverted pendulum on a cart, given the input states [position, speed, angle, angular velocity] and the control is (left, right). 
 
-<img src="/img/taxi.png" width="250" >
+<img src="/img/cartpole.jpg" width="250">
 
-A Q-table learning from the bellmen equation was implemented to find the optimal action in this taxi environment. The output is a learned Q-table for the optimal action to take for every possible state that the taxi and passenger can be in. 
+Methods have been applied:
+* Q-table learning - An obervation wrapper was applied to discretise the continous state space and then a Q-table learning algorithm was applied. 
+* Deep Q Learning - The input state was kept as continous inputs and a deep Q network (DQN) was used to map state to action. The objective of the neural network is to approximate the Q values of each action at each state that the network sees and the agent chooses the action with the highest Q values as the optimal policy. 
