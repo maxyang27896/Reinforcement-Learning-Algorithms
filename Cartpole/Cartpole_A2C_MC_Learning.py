@@ -163,8 +163,6 @@ sess.run(tf.global_variables_initializer())
 
 
 # run for N episodes
-N_STEP_TRAIN = 12
-BATCH_SIZE =  32
 N = 5000
 rewards = []
 steps = []
@@ -180,14 +178,11 @@ for episode in range(0, N):
     # For storing 
     states_mb = []
     actions_mb = []
-    discounted_rewards_mb = []
-    states_next_mb = []
-    done_mb = []
-    
     episode_rewards = []
     
     while not terminal:
         step += 1
+        
         # Take a step
         action = act(state)
         state_next, reward, terminal, info = env.step(action)
@@ -195,9 +190,7 @@ for episode in range(0, N):
         
         # store values
         episode_rewards.append(reward)
-        
         states_mb.append(state)
-        
         action_ = np.zeros(action_space)
         action_[action] = 1
         actions_mb.append(action_)

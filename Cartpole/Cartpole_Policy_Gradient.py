@@ -69,8 +69,8 @@ class NNetwork:
             self.action_distribution = tf.nn.softmax(self.fc3)
             
             # The action is one hot encoded action
-            neg_log_prob = tf.nn.softmax_cross_entropy_with_logits_v2(logits = self.fc3, labels = self.actions_)
-            self.loss = tf.reduce_mean(neg_log_prob * self.discounted_rewards_) 
+            self.neg_log_prob = tf.nn.softmax_cross_entropy_with_logits_v2(logits = self.fc3, labels = self.actions_)
+            self.loss = tf.reduce_mean(self.neg_log_prob * self.discounted_rewards_) 
             
             self.optimiser = tf.train.AdamOptimizer(self.learning_rate).minimize(self.loss)
             
